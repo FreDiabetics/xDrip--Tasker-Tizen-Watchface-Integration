@@ -7,7 +7,8 @@ Have fun with it.
 
 To get a really graet looking Watchface to have a look on your BG Values please Downlaod wach from above
 and copy and paste it path: InternalStorage/BeautifulWatches/watches
-Then open Watchmake and navigate to My Watches. Sync it to your watch and e Voila :) 
+Then open Watchmake and navigate to My Watches. Sync it to your watch and e Voila :) You have to Use the Watchface Files from up above
+to get all Values shown.
 
 You welcome to follow me on https://getwatchmaker.com/user/Bkd6tbYxr
 If you follow me your never gonna pass a new CGM Watchface. 
