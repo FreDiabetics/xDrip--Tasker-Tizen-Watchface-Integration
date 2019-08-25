@@ -5,7 +5,9 @@ So hey everyone. To get your xDrip values on your Wrist you only need to run on 
 
 Have fun with it.
 
-To get a really graet looking Watchface to have a look on your BG Values please go to https://getwatchmaker.com/user/Bkd6tbYxr
+To get a really graet looking Watchface to have a look on your BG Values please Downlaod wach from above
+and copy and paste it path: InternalStorage/BeautifulWatches/watches
+Then open Watchmake and navigate to My Watches. Sync it to your watch and e Voila :) 
 
 You welcome to follow me and give me a download ;) If you follow me your never gonna pass a new CGM Watchface. 
 Every wacthface will be free of cost. Not only now. Everytime in future.
