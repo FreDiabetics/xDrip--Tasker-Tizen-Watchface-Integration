@@ -1,6 +1,9 @@
 # xDrip-Notification-on-Tizen-Watch---exportet-with-Tasker-and-Autonotification---integrated-to-Watch
 
 English/Englisch
+
+
+
 Use this to pull out the xdrip notification variables to put it in a other variable to watchmaker - so design your own T1D Watchface for you Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier and all other Tizen OS based Smartwatch
 
 
@@ -28,6 +31,9 @@ Greetz
 
 
 Deutsch/German
+
+
+
 Mit dieser Anleitung kannst du die Variablen der xdrip+-Benachrichtigung extrahieren um sie dann in eine andere Variable in Watchmaker zu integrieren. Entwerfe also dein eigenes T1D-Zifferblatt für Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier und alle anderen andere Tizen OS basierte Smartwatch
 
 
