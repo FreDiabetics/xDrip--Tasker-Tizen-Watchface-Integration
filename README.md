@@ -9,11 +9,6 @@ Use this to pull out the xdrip notification variables to put it in a other varia
 
 Have fun with it.
 
-To get a really great looking Watchface to have a look on your BG Values please Downlaod wach from above
-and copy and paste it path: InternalStorage/BeautifulWatches/watches
-Then open Watchmake and navigate to My Watches. Sync it to your watch and e Voila :) You have to Use the Watchface Files from up above
-to get all Values shown.  
-
 If you fail to setup on Samsung Galaxy Watch Active or Samsung Galaxy Watch Active 2 please E-Mail me. so I explain you how to go on.
 Otherwise you can Log-In with this Samsung Account and download the needed apps :) 
 E-Mail:     freeappsongalaxystore@gmail.com
@@ -34,7 +29,7 @@ If you wanna buy me a Coffee you find my Paypal.Me-Profile on my Watchmaker-Prof
 
 
 have fun with running on it :) 
-Always watch your BGBalue ;) 
+Always watch your BGValue ;) 
 
 Greetz
 
