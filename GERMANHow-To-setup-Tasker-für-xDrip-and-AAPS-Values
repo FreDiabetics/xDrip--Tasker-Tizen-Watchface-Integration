@@ -35,14 +35,15 @@ Für die Wear OS by Google Smartwatches öffnet ihr nach dem installieren der Wa
 ALLE PREISE SIND VOM 03.11.2019 
 DIESE PREISE WURDEN NICHT VON MIR ERHOBEN 
 
-
+Ihr müsst die automatische Akku-Optimierung für euer Smartphone ausschalten. 
+Tipps dazu findet ihr hier. www.dontkillmyapp.com Danach müsst dir noch die automatische Akku-Optimierung für alle Apps ausschalten, die ihr im Rahmen dieser Anleitung installiert habt. 
 Einstellungen und Berechtigungen für AutoNotification, Tasker und Watchmaker 
 
 Als erstes geht ihr nun im Smartphone auf:  Einstellungen/Apps/Autonotification dann auf Berechtigungen. Dort alle Schalter aktivieren.
 Dasselbe macht ihr für Watchmaker also:  Einstellungen/Apps/Watchmaker/Berechtigungen
 hier ebenfalls alle Schalter aktivieren
 Wenn ihr alle Apps auf dem Smartphone installiert habe öffnet ihr erst AutoNotification.
- Euer Smartphone wird euch beim starten oder beim beenden von AutoNotification nach Berechtigungen fragen die ihr bitte akzeptiert. Bitte deaktiviert auch die Akku-Optimierung!
+Euer Smartphone wird euch beim starten oder beim beenden von AutoNotification nach Berechtigungen fragen die ihr bitte akzeptiert. Bitte deaktiviert auch die Akku-Optimierung!
 Dort drückt ihr auf "Notification Interception" dann auf "Ignore Apps" 
 Hier müsst ihr alle Apps mit Haken versehen, ausser xDrip+ und AAPS 
 Die Berechtigungen habt ihr am Anfang bereits erteilt. Eine weitere Berechtigung aktiviert ihr gleich während ihr Tasker einrichtet.
