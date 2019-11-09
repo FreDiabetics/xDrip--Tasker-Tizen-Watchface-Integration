@@ -55,6 +55,21 @@ Here you have to check all apps except xDrip + and AAPS
 You have already granted the permissions at the beginning. Another permission activates her while you set up Tasker.
 AutoNotification is now set up
 
+Very important so that Tasker gets the necessary data from AutoNotification you have to turn this on, once you have activated since then also equal all rights for Tasker equal.
+I am using a Samsung smartphone with One UI when using another smartphone, this step may differ.
+In addition you go in your Smartphone on Settings / Apps here you click on top right on the 3 points and click on "special access". Here you can see a list of entries that is important for the data transfer. it's about the entries
+
+-Battery Optimize Optimize Switches for AutoNotification and Tasker DEACTIVATE
+-Device Administrator Apps ENABLE Switch for Tasker
+-Do Not Disturb permission to enable tasker switch
+-System change settings ACTIVE switch for Tasker
+-Access Notifications ACTIVATE switch for AutoNotification and Tasker
+-Allow apps to save data Disable the AutoNotification and Tasker switches
+-Access to usage data ACTIVATE switch for Tasker
+
+Then go to Settings / Accessibility below "Installed Services" below scroll down and activate Tasker.
+
+Remaining Tasker permissions:
 Next, open Tasker. For Tasker to work properly, please first turn the language over to English. To activate the change, press the 
 3 dots on the top right to open the menu, then on Exit Tasker, then your Tasker will open directly again.
 To abbreviate the whole I have created screenshots that should explain everything with questions.
