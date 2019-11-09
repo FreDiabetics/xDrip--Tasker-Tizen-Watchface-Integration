@@ -45,6 +45,8 @@ Tipps dazu findet ihr hier. www.dontkillmyapp.com Danach müsst dir noch die aut
 die ihr im Rahmen dieser Anleitung installiert habt. 
 Einstellungen und Berechtigungen für AutoNotification, Tasker und Watchmaker 
 
+
+
 Als erstes geht ihr nun im Smartphone auf:  Einstellungen/Apps/Autonotification dann auf Berechtigungen. Dort alle Schalter aktivieren.
 Dasselbe macht ihr für Watchmaker also:  Einstellungen/Apps/Watchmaker/Berechtigungen
 hier ebenfalls alle Schalter aktivieren
@@ -53,9 +55,23 @@ Euer Smartphone wird euch beim starten oder beim beenden von AutoNotification na
 Bitte deaktiviert auch die Akku-Optimierung!
 Dort drückt ihr auf "Notification Interception" dann auf "Ignore Apps" 
 Hier müsst ihr alle Apps mit Haken versehen, ausser xDrip+ und AAPS 
-Die Berechtigungen habt ihr am Anfang bereits erteilt. Eine weitere Berechtigung aktiviert ihr gleich während ihr Tasker einrichtet.
-AutoNotification ist nun fertig eingerichtet
+AutoNotification ist nun fertig eingerichtet. 
 
+Ganz wichtig damit Tasker die nötigen Daten von AutoNotification bekommt müsst ihr dieses auch anschalten, wenn ihr einmal hier seit dann aktiviert auch gleich alle berechtigungen für Tasker gleich mit.
+Ich benutze ein Samsung Smartphone mit One UI wenn irh ein anderes Smartphone benutzt kann sich dieser schritt unterscheiden. 
+Dazu geht ihr in euerem Smartphone auf Einstellungen/Apps hier klickt ihr oben rechts auf die 3 Punkte und klickt auf "Spezieller Zugriff". Hier seht ihr nun eine Liste von Einträgen die wichtig für die Datenübermittlung ist. es geht um die Einträge 
+
+-Akkuverbauch optimieren              Schalter für AutoNotification und Tasker DEAKTIVIEREN
+-Geräteadministrator-Apps             Schalter für Tasker AKTIVIEREN
+-Nicht-Stören Berechtigung            Schalter für Tasker AKTIVIEREN
+-System Einstellungen ändern          Schalter für Tasker AKTIVIEREN
+-Zugriff auf Benachrichtigungen       Schalter für AutoNotification und Tasker AKTIVIEREN
+-Apps beim Datensparen zulassen       Schalter für AutoNotification und Tasker DEAKTIVIEREN
+-Zugriff auf Nutzungsdaten            Schalter für Tasker AKTIVIEREN
+
+Dann geht ihr zu Einstellungen/Eingabehilfe klickt unten auf "Installierte Dienste" hier scrollt ihr anch unten und aktiviert Tasker
+
+Restliche Tasker Berechtigungen:
 Als nächstes öffnet ihr Tasker. Damit Tasker richtig läuft stellt ihr bitte als erstes die Sprache auf Englisch um. 
 Um die Änderung zu aktivieren drückt ihr danach oben rechts auf die 3 Punkte um das Menü zu öffnen, dann auf Exit Tasker, 
 anschliessend öffnet ihr Tasker auch direkt wieder.Um das ganze Abzukürzen habe ich Screenshots erstellt die bei Fragen alles erklären
