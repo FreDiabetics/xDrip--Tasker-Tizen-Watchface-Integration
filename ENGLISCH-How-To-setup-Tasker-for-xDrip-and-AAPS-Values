@@ -1,6 +1,8 @@
 For xDrip you need of course only xDrip profile and the task
 For AAPS you need both xDrip profile / task and AAPS profile / task.
 
+As a reminder AAPS / AndroidAPS) is used to build a closed-loop with your CGM sensor. if you have AAPS so far
+not used then you only need the TASK and the profile of xDrip. Everything that has to do with AAPS you can ignore.
 
 What you need:
 
@@ -108,8 +110,10 @@ Settings / Apps / AAPS there you press on "Stop force" You do the same for xDrip
 ATTENTION DOES NOT MAKE THIS DURING A SENSOR WARM UP THIS MAY CAUSE PROBLEMS !!!!!
 After doing this for both apps, please open it once.
 
-Now all variables should be displayed successfully. Take a look. Open Tasker and click on the tab "VARS" in the top right corner. 
-Here you will find 38 entries.
+Now all variables should be displayed successfully. Take a look.
+Open Tasker and click on the tab in the upper right corner
+"VARS" if you have only imported the xDrip TASK and the xDrip profile then you will find 9 entries here.
+If you have imported the TASKS and profiles for xDrip and AAPS then there are 38.
 
 If this is not the case, repeat the process with the play button again.
 
