@@ -1,7 +1,7 @@
 # xDrip-Notification-on-Tizen-Watch---exportet-with-Tasker-and-Autonotification---integrated-to-Watch
 
 English/Englisch
-Use this to pull out the xdrip and aaps notification variables to put it in a other variable to watchmaker - so design your own T1D Watchface for you Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier and all other Tizen OS based Smartwatch. of course on your WEAR OS Watch too!!
+With these instructions you can extract the variables of the xdrip + and AAPS notification and then integrate them into another variable in Watchmaker. So design your own T1D dial for Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier and all Tizen OS based smartwatches that are not explicitly mentioned. The same and more applies to all Wear OS smartwatches, with Wear OS you can even use the watch faces for remote control of xDrip and AAPS, unfortunately this is only possible under Wear OS
 
 Have fun with it.
 
@@ -24,7 +24,7 @@ Greetz
 
 
 Deutsch/German
-Mit dieser Anleitung kannst du die Variablen der xdrip+ und AAPS -Benachrichtigung extrahieren um sie dann in eine andere Variable in Watchmaker zu integrieren. Entwerfe also dein eigenes T1D-Zifferblatt für Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier und alle anderen andere Tizen OS basierte Smartwatch und auch auf jeder WEAR OS Watch
+Mit dieser Anleitung kannst du die Variablen der xdrip+ und AAPS -Benachrichtigung extrahieren um sie dann in eine andere Variable in Watchmaker zu integrieren. Entwirf also dein eigenes T1D-Zifferblatt für Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier und alle nich explizit erwähnten Tizen OS basierten Smartwatches. Das gleiche und mehr gilt für alle Wear OS Smartwatches, mit Wear OS könnt ihr die Watchfaces sogar zum fernbedienen von xDrip und AAPS nutzen, dies ist leider ausschließlich unter Wear OS möglich
 
 Ihr braucht nur noch die Tasks und Profile zu importieren und schon ist alles fertig. Sehr einfach!!!
 
