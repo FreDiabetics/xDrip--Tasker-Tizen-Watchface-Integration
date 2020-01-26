@@ -92,16 +92,16 @@ profile and then activate it immediately. You click on both "YES" You do that wi
 
 
 1. FIRST IMPORT xDrip+ Task: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AVars+xDrip%2B%2Fmg%2Fdl+Watchmaker+ONLY
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AxDrip%2B%2FWatchmaker+VARS
 
 2. xDrip+ Profile: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AxDrip%2B+Notifications+-+Watchmaker+ONLY
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AxDrip%2B%2FWatchmaker
 
-3. ZUERST IMPORTIEREN AAPS Task: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AVars+AAPS%2Fmg%2Fdl+Watchmaker+ONLY
+3. FIRST IMPORT AndroidAPS Task: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AAndroidAPS%2FWatchmaker+VARS
 
-4. AAPS Profile: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AAAPS+Notifications+-+Watchmaker+ONLY
+4. AndroidAPS Profile: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AAndroidAPS%2FWatchmaker
 
 
 Now all tasks and profiles are imported and activated. 
