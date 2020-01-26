@@ -94,17 +94,17 @@ Das macht ihr mit allen
 
 
 
-1. ZUERST IMPORTIEREN xDrip+ Task:
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AVars+xDrip%2B%2Fmg%2Fdl+Watchmaker+ONLY)
+1. ZUERST IMPORTIEREN xDrip+ Task: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AxDrip%2B%2FWatchmaker+VARS
 
-2. xDrip+ Profil: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AxDrip%2B+Notifications+-+Watchmaker+ONLY
+2. xDrip+ Profile: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AxDrip%2B%2FWatchmaker
 
-3. ZUERST IMPORTIEREN AAPS Task: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AVars+AAPS%2Fmg%2Fdl+Watchmaker+ONLY
+3. ZUERST IMPORTIEREN AndroidAPS Task: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Task%3AAndroidAPS%2FWatchmaker+VARS
 
-4. AAPS Profil: 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AAAPS+Notifications+-+Watchmaker+ONLY
+4. AndroidAPS Profile: 
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Profile%3AAndroidAPS%2FWatchmaker
 
 
 
