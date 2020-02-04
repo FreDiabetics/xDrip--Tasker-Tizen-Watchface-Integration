@@ -169,7 +169,6 @@ AAPS:
 {tAVERAGEL}	40 Minuten Durchschnitt
 {tPUMPSTATUS}	Pumpenstatus
 {tAAPSTIME}	Zeitstempel des Glukose-Werts
-{tBASAL}
 {tBASALRATE}	Basalrate
 {tBASALPROFILE}	Basalprofile
 {tTBR}		Basalraten Status 
