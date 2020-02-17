@@ -6,6 +6,9 @@ not used then you only need the TASK and the profile of xDrip. Everything that h
 
 What you need:
 
+In any case, you have to allow permanent notifications for xDrip and AndroidAPS, these must be visible on the status bar, from there Tasker gets the values, if you switch them off, Tasker cannot receive anything and send it to a watch face.
+
+
 Apps from the Playstore:
 
 -Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en 
