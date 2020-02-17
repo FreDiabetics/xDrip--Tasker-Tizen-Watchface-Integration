@@ -10,13 +10,17 @@ Apps from the Playstore:
 
 -Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en 
 
--AutoNotification https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification&hl=en_US 
+-AutoNotification (2,39€) https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification&hl=en_US 
 
--AutoNotification Unlock Key 2.39 € https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification.unlock&hl=en 
+-AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub
 
 -Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy 
 
 -Watchmaker Premium 6.99 € https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium 
+
+
+After you have downloaded all the apps, the first thing you do is open AutoApps. You use this app to purchase the full versions of the Tasker plugins. Here you can buy the AutoNotification license for € 2.49. If the purchase has been successfully completed, you can see that the AutoNotification is no longer grayed out, but is shown in color.
+
 
 Whether you have a Samsung Smartwatch with Tizen OS or a Wear OS by Google Smartwatch. The apps from the Playstore you need in any case.
 All prices are payable only once. NO ABO!
