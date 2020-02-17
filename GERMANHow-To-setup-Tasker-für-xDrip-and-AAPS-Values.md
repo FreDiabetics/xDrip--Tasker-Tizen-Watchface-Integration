@@ -1,10 +1,12 @@
 Für xDrip benötigt ihr natürlich nur xDrip Profil und den Task 
-Für AAPS benötigt ihr sowohl  xDrip Profil/Task als auch AAPS Profil/Task.
+Für AndroidAPS benötigt ihr beides, sowohl xDrip Profil/Task als auch AAPS Profil/Task.
 
 Zur Erinnerung AAPS /AndroidAPS) wird benutzt um zusammen mit eurem CGM-Sensor einen Closed-Loop zu bauen. wenn ihr AAPS also bisher
 nicht benutzt dann braucht ihr auch nur den TASK und das Profil von xDrip. Alles was mit AAPS zutun hat könnt ihr ignorieren.
 
 Was ihr braucht:
+
+Ihr müsst in jedem Fall die permanente Benachrichtigungen für xDrip und AndroidAPS zulassen, diese muss auf der Statusleiste zu sehen sein, von dort bekommt Tasker die Werte, schaltet ihr diese ab, kann Tasker nichts empfangen und an ein Watchface senden.  
 
 Apps aus dem Playstore: 
 
