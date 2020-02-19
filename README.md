@@ -1,7 +1,7 @@
 # xDrip-Notification-on-Tizen-Watch---exportet-with-Tasker-and-Autonotification---integrated-to-Watch
 
 English/Englisch
-With these instructions you can extract the variables of the xdrip + and AAPS notification and then integrate them into another variable in Watchmaker. So design your own T1D dial for Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier and all Tizen OS based smartwatches that are not explicitly mentioned. The same and more applies to all Wear OS smartwatches, with Wear OS you can even use the watch faces for remote control of xDrip and AAPS, unfortunately this is only possible under Wear OS
+With these instructions you can extract the variables of the xdrip + and AAPS notification and then integrate them into another variable in Watchmaker. Design your own T1D Watchface for Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier and all Tizen OS based smartwatches that are not explicitly mentioned. The same and more applies to all Wear OS smartwatches, with Wear OS you can even use the watch faces for remote control of xDrip and AAPS, unfortunately this is only possible under Wear OS
 
 Have fun with it.
 
