@@ -18,10 +18,10 @@ If you wanna buy me a Coffee you find my Paypal.Me-Profile on my Watchmaker-Prof
 
 
 have fun with running on it :) 
-Always watch your BGValue ;) 
 
 Greetz
 
+Keep an eye on your sugar  ;) 
 
 Deutsch/German
 Mit dieser Anleitung kannst du die Variablen der xdrip+ und AAPS -Benachrichtigung extrahieren um sie dann in eine andere Variable in Watchmaker zu integrieren. Entwirf also dein eigenes T1D-Zifferblatt für Galaxy Watch, Galaxy Watch Active, Galaxy Watch Active 2, Gear Sport, Gear S3, Gear S3 Frontier und alle nich explizit erwähnten Tizen OS basierten Smartwatches. Das gleiche und mehr gilt für alle Wear OS Smartwatches, mit Wear OS könnt ihr die Watchfaces sogar zum fernbedienen von xDrip und AAPS nutzen, dies ist leider ausschließlich unter Wear OS möglich
