@@ -1,6 +1,6 @@
 HOW-TO NIGHTSCOUT GLUKOSE-GRAPH für Watchmaker -(TIZEN & WEAR OS)
 
-
+LINK WATCHFACE: https://getwatchmaker.com/watch/sBJf2CbKcXI
 
 
 Apps dir ihr braucht:
