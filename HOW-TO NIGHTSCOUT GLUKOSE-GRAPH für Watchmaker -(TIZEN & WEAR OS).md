@@ -5,11 +5,11 @@ LINK WATCHFACE: https://getwatchmaker.com/watch/sBJf2CbKcXI
 
 Apps dir ihr braucht:
 
-Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en
+Tasker 3.59€ (Direkt im PlayStore zu bezahlen, muss gekauft werden) https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en
 
 AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub
 
-AutoTools  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
+AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)) https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
 
 
 
