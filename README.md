@@ -16,6 +16,8 @@ https://www.facebook.com/FREDERIKWAGNER311991  or by E-Mail: typ1.diafreddy@gmai
 
 If you wanna buy me a Coffee you find my Paypal.Me-Profile on my Watchmaker-Profile or take this: https://www.paypal.me/diafreddy
 
+EVERYBODY IS INVITED TO CHANGE PARTS OF THIS DOCS, IF YOU THINK THERE IS SOMETHING MISSING OR CAN BE EXPLAINED EASIER.
+JUST FORKE THIS REPO AND PUSH THE CHANGES TO IT :)
 
 have fun with running on it :) 
 
@@ -33,6 +35,9 @@ Viel Spass damit.
 Du kannst mir gerne auf https://getwatchmaker.com/user/Bkd6tbYxr folgen. Dann wirst du nie wieder verpassen sobald ein neues Watchface online geht.Alle Watchfaces sind komplett kostenlos. 
 
 Viel Spaß ausprobieren :) Wenn du fragen oder Probleme hast schreib mir einfach eine Nachricht. Hier ist mein Facebook-Profil: https://www.facebook.com/FREDERIKWAGNER311991 oder du schreibst mir eine E-Mail an: typ1.diafreddy@gmail.com 
+
+WENN IHR VORSCHLÄGE FÜR ÄNDERUNGEN HABT ODER DER MEINUNG SEIT ES GIBT ETWAS IN DER ANLEITUNG WAS IHR ANDERS/"EINFACHER" ERKLAEREN WÜRDET DANN DU4FT IHR SELBSTVERSTANDLICH GERNE DIESE ÄNDERUNGEN VORNEHMEN.
+
 
 Wenn du mich unterstützen willst findest du mein PayPal.Me Profil in meinem Watchmaker-Profil oder hier: https://www.paypal.me/diafreddy
 
