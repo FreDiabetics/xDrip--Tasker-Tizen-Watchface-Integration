@@ -10,7 +10,6 @@ Ihr müsst in jedem Fall die permanente Benachrichtigungen für xDrip und Androi
 
 Apps aus dem Playstore: 
 
-
 -Tasker 3.59€  https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de 
 
 -AutoNotification (2,39€)  https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification&hl=de 
@@ -78,7 +77,7 @@ Dazu geht ihr in euerem Smartphone auf Einstellungen/Apps hier klickt ihr oben r
 -Apps beim Datensparen zulassen       Schalter für AutoNotification und Tasker DEAKTIVIEREN
 -Zugriff auf Nutzungsdaten            Schalter für Tasker AKTIVIEREN
 
-Dann geht ihr zu Einstellungen/Eingabehilfe klickt unten auf "Installierte Dienste" hier scrollt ihr anch unten und aktiviert Tasker
+Dann geht ihr zu Einstellungen/Eingabehilfe klickt unten auf "Installierte Dienste" hier scrollt ihr nach unten und aktiviert Tasker
 
 Restliche Tasker Berechtigungen:
 Als nächstes öffnet ihr Tasker. Damit Tasker richtig läuft stellt ihr bitte als erstes die Sprache auf Englisch um. 
