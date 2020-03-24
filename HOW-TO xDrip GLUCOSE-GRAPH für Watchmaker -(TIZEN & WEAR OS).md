@@ -3,15 +3,23 @@ xDrip+ Watchmaker Projekt
 Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
 
 Installiert bitte zuerst die aktuellste xdrip nightly von hier: https://github.com/NightscoutFoundation/xDrip/releases
-Apps aus derm Playstore:
+Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
+hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
+xDrip local Broadcast: https://imgur.com/gallery/Se9Psgp
 
+
+
+Apps aus derm Playstore:
 Bitte alle herunterladen und installieren.
 
-
 -Tasker 3.59€ https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de 
-AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools 
+
+-AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools 
+
 -AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub 
+
 -Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy
+
 -Watchmaker Premium 6.99€ https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium
 
 Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese App ist dazu da, um die Vollversionen der Plugins von Tasker zu erwerben, hier lauft ihr jetzt die AutoTools Lizenz für 1.79€. Wenn der Kauf erfolgreich abgeschlossen wurde erkennt ihr das daran, dass das AutoTools nicht mehr ausgegraut ist sondern jetzt farbig dargestellt wird.
@@ -19,9 +27,12 @@ Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese A
 Egal ob ihr eine Samsung Smartwatch mit Tizen OS habt oder eine Wear OS by Google Smartwatch. Die Apps aus dem Playstore benötigt ihr auf jeden Fall. Alle Preise sind nur einmalig zu bezahlen. KEIN ABO!
 Wenn ihr eine Smartwatch von Samsung benutzt dann braucht ihr zusätzlich noch eine dieser beiden Apps aus dem Galaxy Store.
 Für die Samsung Uhren Modelle GearS2, Gear S3 und Galaxy Watch (Alle Versionen) nach dem installieren könnt ihr das Watchmaker Watchface wie alle anderen Watchfaces in der Watchface Übersicht auf der Uhr oder in der Galaxy Wearable App finden und auswählen :
+
 -Watchmaker Companion Legacy 2.49€ http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzy
+
 Für die neuen Modelle Galaxy Active und Galaxy Active 2:
 -Watchmaker Companion 2.99€ http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzyw
+
 Für die Wear OS by Google Smartwatches öffnet ihr nach dem installieren der Watchmaker App auf dem Smartphone, den Playstore auf eurer Smartwatch dort scrollt ihr runter. Hier findet ihr das Watchmaker Watchface installiert es, danach könnt ihr es wie gewohnt direkt von der Uhr in der Watchfaceübersicht finden und auswählen odewr natürlich auch von der Wear App auf dem Smartphone.
 ALLE PREISE SIND VOM 17.03.2020 DIESE PREISE WURDEN NICHT VON MIR ERHOBEN
 Wenn ihr alle Apps installiert habt, müsst ihr im Grunde genommen nur die Berechtigungen für Tasker und AutoTools erteilen.
@@ -57,11 +68,13 @@ Nun erscheint unten neben dem kleinen Häuschen ein xDrip Icon. Das ist das Zeic
 Hier seht ihr wo wie ihr den Lokalen Broadcast aktiviert damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
 xDrip local Broadcast: https://imgur.com/gallery/Se9Psgp  
 
+Am Ende müsst ihr noch die EInstellungen im Watchmaker Watchface einstellen. dazu tippt ihr zweimal schnell auf das watchface es öffnet sich die watchmaker watchface Übersicht, links und rechts am Bildschirmrand erscheinen Pfeil mit denen ihr navigieren könnt. drück nach Links um die Einstellungen zu erreichen. Die einstellungen "Update Heart rate" und "Update Steps" stellt ihr bitte auf "On every Watch wake up" dann stellt ihr die Einstellungen "Enable Transisitions", "Enable Shaders" und "Enable Text Effects" auf ENABLE.
+
 Wenn das erledigt ist seit ihr fertig und ihr könnt nun das Watchface entweder hier direkt downloaden: 
 
 Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces werden in den nächsten Monaten auf dieses Anleitung angepasst. Das heisst es werden am Ende alle bisher veröffentlichten Watchfaces aus meinem Watchmaker Profil mit dieser Anleitung zu benutzen
 
-
+ 
 
 
 
@@ -72,15 +85,18 @@ xDrip + Watchmaker project
 What you need: xDrip, Watchmaker, Tasker, AutoTools
 
 
+Please install the latest xdrip nightly from here: https://github.com/NightscoutFoundation/xDrip/releases
+Then you have to activate the local broadcast. This is done in the settings in the "Inter-App Settings" menu.
+here you see exactly what you have to do so that xDrip makes the values available for Tasker, very important !! otherwise nothing works!
+xDrip local broadcast: https://imgur.com/gallery/Se9Psgp
+
+
 Apps from the playstore:
-
 Please download and install them all.
-
-  Please install the current xDrip + version first from here https://github.com/NightscoutFoundation/xDrip/releases
 
 -Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de
 
-AutoTools € 1.79 (only to be purchased via the AutoApps app, must be purchased) https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
+-AutoTools € 1.79 (only to be purchased via the AutoApps app, must be purchased) https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
 
 -AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub
 
@@ -131,8 +147,7 @@ https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZ
 Under the description there is a green button "Import" which you press, then Tasker opens and 2-3 messages appear one after the other which you confirm with "Yes".
 Now an xDrip icon appears next to the little house. This is the sign that everything has worked.
 
-Here you can see where you activate the local broadcast so that xDrip makes the values ​​available for Tasker, very important !! otherwise nothing works!
-xDrip local broadcast: https://imgur.com/gallery/Se9Psgp
+At the end you have to adjust the settings in the Watchmaker Watchface. To do this, quickly tap the watchface twice. The watchmaker watchface overview opens, and arrows appear on the left and right of the screen with which you can navigate. press left to reach the settings. Please set the settings "Update Heart rate" and "Update Steps" to "On every Watch wake up" then you set the settings "Enable Transisitions", "Enable Shaders" and "Enable Text Effects" to ENABLE.
 
 When this is done you are ready and you can now download the watchface either here:
 
