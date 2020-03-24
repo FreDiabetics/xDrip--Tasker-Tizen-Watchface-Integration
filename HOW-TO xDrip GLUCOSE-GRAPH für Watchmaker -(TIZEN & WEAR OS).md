@@ -2,6 +2,9 @@ xDrip+ Watchmaker Projekt
 
 Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
 
+Die Watchfaces sind hier zu finden: https://getwatchmaker.com/user/Bkd6tbYxr im moment funktionieren nur die Watchfaces: xDrip Diabadass mg/dl/mmol/l, xDrip Sugar Guardian mg/dl/mmol/l and Glucose Graph mg/dl/mmol/l
+Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
+
 Installiert bitte zuerst die aktuellste xdrip nightly von hier: https://github.com/NightscoutFoundation/xDrip/releases
 Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
 hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
@@ -84,6 +87,8 @@ xDrip + Watchmaker project
 
 What you need: xDrip, Watchmaker, Tasker, AutoTools
 
+The watch faces can be found here: https://getwatchmaker.com/user/Bkd6tbYxr at the moment only the watch faces work: xDrip Diabadass mg / dl / mmol / l, xDrip Sugar Guardian mg / dl / mmol / l and Glucose Graph mg / dl / mmol / l
+All others will be adapted to this new manual in the next few weeks and will then also be available.
 
 Please install the latest xdrip nightly from here: https://github.com/NightscoutFoundation/xDrip/releases
 Then you have to activate the local broadcast. This is done in the settings in the "Inter-App Settings" menu.
