@@ -29,7 +29,7 @@ HOW TO IMPORT INTO WATCHMAKER LIVE WALLPAPER APP?
 
     https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/tree/master/Watchfaces
 
-Download the watchface you want and import it into the Watchmaker app. As heard here:
+Download the watchface you want and import it into the Watchmaker app. As described here:
 
     https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/Watchfaces/WATCHMAKER%20README.md
 
