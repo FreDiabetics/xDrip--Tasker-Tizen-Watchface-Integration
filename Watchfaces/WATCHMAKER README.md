@@ -1,7 +1,11 @@
-DEUTSCH:
 
 
-WIE EINRICHTEN
+
+
+     DEUTSCH:
+
+
+WIE IN WATCHMAKER IMPORTIEREN?
 
 https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/tree/master/Watchfaces
 
@@ -15,10 +19,10 @@ Fertig!
 
 
 
-ENGLISH:
+    ENGLISH:
 
 
-HOW TO SETUP
+HOW TO IMPORT IN WATCHMAKER
 
 https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/tree/master/Watchfaces
 
