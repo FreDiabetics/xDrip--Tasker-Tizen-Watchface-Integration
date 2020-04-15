@@ -1,9 +1,9 @@
-FULL ANDROID WATCH 
 
 
+    !NUR FÜR FULL ANDROID WATCHES!
 
-     DEUTSCH:
 
+DEUTSCH:
 
 WIE IN DIE WATCHMAKER LIVE WALLPAPER APP IMPORTIEREN?
 
@@ -20,11 +20,10 @@ Nun befindet ihr euch wieder in der Watchmaker Live Wallpaper App und habt das W
 Fertig!
 
 
+    !FOR FULL ANDROID WATCHES ONLY!
 
 
-
-    ENGLISH:
-
+ENGLISH:
 
 HOW TO IMPORT INTO WATCHMAKER LIVE WALLPAPER APP?
 
