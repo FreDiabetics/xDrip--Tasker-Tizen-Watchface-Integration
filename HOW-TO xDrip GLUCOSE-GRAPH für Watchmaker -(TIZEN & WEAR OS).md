@@ -147,7 +147,7 @@ The apps are now all installed and you can import the Tasker project from me.
 
 Click on the following link, you will be redirected to the Taskernet page in your browser.
 
-https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project +atchm
+https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project
 
 Under the description there is a green button "Import" which you press, then Tasker opens and 2-3 messages appear one after the other which you confirm with "Yes".
 Now an xDrip icon appears next to the little house. This is the sign that everything has worked.
