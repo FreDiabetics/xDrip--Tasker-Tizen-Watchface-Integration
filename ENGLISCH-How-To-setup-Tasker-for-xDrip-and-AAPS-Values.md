@@ -1,4 +1,4 @@
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
               
 
 
@@ -30,7 +30,7 @@ Apps from the Playstore:
 After you have downloaded all the apps, the first thing you do is open AutoApps. You use this app to purchase the full versions of the Tasker plugins. Here you can buy the AutoNotification license for € 2.49. If the purchase has been successfully completed, you can see that the AutoNotification is no longer grayed out, but is shown in color.
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
 
 
 Whether you have a Samsung Smartwatch with Tizen OS or a Wear OS by Google Smartwatch. The apps from the Playstore you need in any case.
@@ -56,8 +56,7 @@ Playstore on your smartwatch. Here you will find the Watchmaker Watchface instal
 clock in the Watchfaceübersicht and select odewr of course from the Wear App on the smartphone.
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
-
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
 
 ALL PRICES ARE FROM 03.11.2019
 THESE PRICES WERE NOT RAISED BY ME
@@ -91,7 +90,7 @@ In addition you go in your Smartphone on Settings / Apps here you click on top r
 -Access to usage data ACTIVATE switch for Tasker
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
 
 
 Then go to Settings / Accessibility below "Installed Services" below scroll down and activate Tasker.
@@ -136,7 +135,7 @@ ATTENTION DOES NOT MAKE THIS DURING A SENSOR WARM UP THIS MAY CAUSE PROBLEMS !!!
 After doing this for both apps, please open it once.
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
 
 
 Now all variables should be displayed successfully. Take a look.
@@ -164,8 +163,7 @@ If you want to buy me a coffee through PayPal:
 https://www.paypal.me/diafreddy 
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
-
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
 
 Add variables in Watchmaker:
 
@@ -204,4 +202,4 @@ AAPS:
 {tCOB} 				Carbs On Board
 
 
-              THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                                            https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
+    THESE INSTRUCTIONS ARENT SUPPORTED AND WONT BE UPDATED ANYMORE ANY DEPENDING WATCHFACE WILL BE UPDATED SOON AND GOT DELETED PLEASE USE ONLY THE NEW INSTRUCTIONS FROM HERE NO QUESTIONS FOR SUPPORT                             https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/HOW-TO%20xDrip%20GLUCOSE-GRAPH%20f%C3%BCr%20Watchmaker%20-(TIZEN%20%26%20WEAR%20OS).md
