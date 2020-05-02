@@ -3,7 +3,7 @@ xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Sam
 
 
 For english version [click here](#english) or scroll down 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Anchor links](#anchor-links)
 
 
 Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
@@ -98,9 +98,8 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
  
 
 
-#Real Cool Heading
-#real-cool-heading
 
+## Anchor links
 
 #English [#english]
 
