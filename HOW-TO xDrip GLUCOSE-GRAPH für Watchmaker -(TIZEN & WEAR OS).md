@@ -6,32 +6,24 @@
 
 
 
-    **Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools**
+**Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools**
 
-    **Die Watchfaces sind hier zu finden:**
+    Die Watchfaces sind hier zu finden:
     
-    https://getwatchmaker.com/user/Bkd6tbYxr 
+-    https://getwatchmaker.com/user/Bkd6tbYxr 
 
-im moment funktionieren nur die Watchfaces: xDrip Diabadass mg/dl/mmol/l, xDrip Sugar Guardian mg/dl/mmol/l and xDrip Glucose Graph mg/dl/mmol/l
+*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian  and xDrip Glucose Graph 
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
     **Installiert bitte zuerst die aktuellste xdrip nightly von hier:**
-    -https://github.com/NightscoutFoundation/xDrip/releases
+-    https://github.com/NightscoutFoundation/xDrip/releases
     
 Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
 hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
 xDrip local Broadcast: 
 
-    -**https://imgur.com/gallery/Se9Psgp**
+-    **https://imgur.com/gallery/Se9Psgp**
 
->      * Item 1;
->	      * Item 1.1;
->	    * Item 2;
->	     * Item 2.1;
->	     * Item 2.2;
->	    * Item 3
->		   * Item 3.1;
->			  * Item 3.1.1;
 
 Apps aus derm Playstore:
 Bitte alle herunterladen und installieren.
@@ -197,4 +189,4 @@ Or you look for it in my Watchmaker profile. All watch faces created so far will
 
 
 
-    **#*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)
+-    ***Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)
