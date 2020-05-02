@@ -1,9 +1,8 @@
 # xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear *² smartwatch 
 
-
-- [Watchmaker Profil](https://getwatchmaker.com/user/Bkd6tbYxr]
+- [Watchmaker Profil](https://getwatchmaker.com/user/Bkd6tbYxr)
 - [Apps](#apps-aus-dem-playstore)  
-- [Wear OS](#android-wear-(wear-os)-smartwatches-watchmaker-companion-installieren)
+- [Wear OS](#android-wear)
 - [English Version](#english) or scroll down 
 
     
