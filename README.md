@@ -1,17 +1,21 @@
 # xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear *² smartwatch 
 
 
+- Watchmaker Profil [FREDERIKWAGNER311991](https://getwatchmaker.com/user/Bkd6tbYxr]
+- [Apps](#apps-aus-dem-playstore)  
 
-### For english version [click here](#english) or scroll down 
 
 
 
-Was du brauchst: xDrip, Watchmaker, Tasker, AutoTools**
 
-    Die Watchfaces sind hier zu finden:
+- ### For english version [click here](#english) or scroll down 
+
+
+
+### Was du brauchst: xDrip, Watchmaker, Tasker, AutoTools
+
+   Die Watchfaces sind [hier](https://getwatchmaker.com/user/Bkd6tbYxr) zu finden
     
--    https://getwatchmaker.com/user/Bkd6tbYxr 
-
 *im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian  and [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI) 
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
@@ -25,7 +29,9 @@ xDrip local Broadcast:
 
 
 
-Apps aus derm Playstore:
+# Apps aus dem Playstore 
+
+
 Bitte alle herunterladen und installieren.
 
 -    [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de) ~ 3.59€ **einmalig**
@@ -190,4 +196,4 @@ Or you look for it in my Watchmaker profile. All watch faces created so far will
 
 
 
--    ***Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)**
+-    **-*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)**
