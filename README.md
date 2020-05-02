@@ -9,10 +9,7 @@
     
 *im moment funktionieren nur die Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One] Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
-
-
-
-
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_1_tap_actions.png) ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
 
 **Zuerst muss die aktuellste xDrip Nightly installiert werden die gibts [hier](https://github.com/NightscoutFoundation/xDrip/releases)**
     
@@ -21,7 +18,7 @@ das geht in den Einstellungen im Menü "Inter-App Einstellungen"
 [hier](https://imgur.com/gallery/Se9Psgp) ist zu sehen wie das geht. 
 
 
-# Apps aus dem Playstore 
+## Apps aus dem Playstore 
 
 
 **Bitte alle herunterladen und installieren.**
@@ -46,37 +43,50 @@ Wenn ihr eine Smartwatch von Samsung benutzt dann braucht ihr zusätzlich noch e
      -Watchmaker Companion 2.99€ http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzyw
 
 
-### Android Wear
-
-
-öffnet ihr nach dem installieren der Watchmaker App auf dem Smartphone, den Playstore auf eurer Smartwatch dort scrollt ihr runter. Hier findet ihr das Watchmaker Watchface installiert es, danach könnt ihr es wie gewohnt direkt von der Uhr in der Watchfaceübersicht finden und auswählen odewr natürlich auch von der Wear App auf dem Smartphone.
-ALLE PREISE SIND VOM 17.03.2020 DIESE PREISE WURDEN NICHT VON MIR ERHOBEN
+## Android Wear
 
 
 
-### Permissions
 
 
-Wenn ihr alle Apps installiert habt, müsst ihr im Grunde genommen nur die Berechtigungen für Tasker und AutoTools erteilen.
 
-Dafür geht ihr im Smartphone in die Einstellungen, Einstellungen >Apps > Spezieller Zugriff.
-Hier werden euch jetzt mehrere Menüpunkte angezeigt. 
-
-Beginnt beim ersten, geht  alle Menüpunkte durch die ich hier auf diesem Bild gelb markiert habe
-
-     https://imgur.com/a/IiniWvW 
+## Permissions
 
 
-Anschließend müsst ihr noch die App spezifischen Berechtigungen aktivieren.
+Nachdem alle Apps nun erfolgreich installiert wurden müssen diese
+noch die notwendigen Berechigungen bekommen um alles von A nach B 
+zu transportieren.
 
-Das geht unter Einstellungen/Apps dort findet ihr alle installierten Apps 
-Sucht die vorher installierten Apps aus der Liste und geht dann auf Berechtigungen. Dort aktiviert ihr alle Schalter. 
-Das macht ihr bei-
--AutoTools
--Tasker
--Watchmaker
+Das geht hier:
+Einstellungen >Apps > Spezieller Zugriff.
+Hier sind mehrere Menüpunkte zu beachten.
 
-Öffnet nun AutoTools und Tasker einmal und bestätigt alle Fragen nach Berechtigungen die angezeigt werden, auch solltet ihr die benachrichtigung im nicht stören modus aktzeptieren, sonst kann weder Tasker, AutoTools oder Watchmaker richgit arbeiten wenn ihr diesen eingeschaltet habt. 
+Wichtig sind folgende Punkte:
+- Akku-Verbrauch optimieren       -_Schalter für AutoTools, Watchmaker, Tasker deaktivieren_
+- Geräteadministrator-Apps         -_Schalter für Tasker aktivieren und bestätigen_
+- Am-Anfang anzeigen                -_Schalter für AutoTools, Tasker aktivieren_
+- Systemeinstellungen ändern         -_Schalter für AutoTools, Tasker aktivieren_
+- Apps beim Datensparen zulassen      -_Schalter für AutoTools, Watchmaker, Tasker aktivieren_
+- Zugriff auf Nutzungsdaten            -_Schalter für AutoTools, Tasker aktivieren_
+
+Alle auf diesem [Bild](https://imgur.com/a/IiniWvW) 
+gelb markierten Punkte sind wichtig und zu überprüfen
+
+Anschließend müssen noch die App spezifischen Berechtigungen aktiviert werden.
+
+Das geht unter Einstellungen/Apps
+Hier einfach die zuvor installierten Apps suchen,
+anklicken und anschliessend Berechtigungen auswählen. 
+Hier müssen alle Schalter aktiviert werden. 
+Das muss für folgende Apps gemacht werden: 
+
+- AutoTools
+- Tasker
+- Watchmaker
+
+Öffnet nun AutoTools und Tasker einmal und bestätigt alle Fragen nach Berechtigungen die angezeigt werden, 
+auch solltet ihr die benachrichtigung im nicht stören modus aktzeptieren, sonst kann weder Tasker, 
+AutoTools oder Watchmaker richgit arbeiten wenn ihr diesen eingeschaltet habt. 
 Ihr habt zwar im Vorfeld schon alle Berechtigungen aktiviert es kann trotzdem sein das euch die Meldungen angezeigt werden.
 
 Die Apps sind nun alle installiert und ihr könnt das Tasker Projekt von mir importieren.
