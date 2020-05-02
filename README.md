@@ -7,7 +7,7 @@
 - [English Version](#english) or scroll down 
 
     
-*im moment funktionieren nur die Watchfaces: xrip Dias , xDrip Sugar Guardian, [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI),
+*im moment funktionieren nur die Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One]
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
 
