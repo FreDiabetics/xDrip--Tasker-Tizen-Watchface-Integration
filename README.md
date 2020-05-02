@@ -3,36 +3,30 @@
 
 - Watchmaker Profil [FREDERIKWAGNER311991](https://getwatchmaker.com/user/Bkd6tbYxr]
 - [Apps](#apps-aus-dem-playstore)  
-
+- [Wear OS](#android-wear-(wear-os)-smartwatches-watchmaker-companion-installieren
 
 
 
 
 - ### For english version [click here](#english) or scroll down 
 
-
-
-### Was du brauchst: xDrip, Watchmaker, Tasker, AutoTools
-
-   Die Watchfaces sind [hier](https://getwatchmaker.com/user/Bkd6tbYxr) zu finden
     
-*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian  and [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI) 
+*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian, [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI),
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
-    **Installiert bitte zuerst die aktuellste xdrip nightly von hier:**
--    https://github.com/NightscoutFoundation/xDrip/releases
+   
+   
+**Zuerst muss die aktuellste xDrip Nightly installiert werden die gibts [hier](https://github.com/NightscoutFoundation/xDrip/releases)**
     
-Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
-klick hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
-xDrip local Broadcast: 
-
-
+Danach muss der lokale Broadcast aktivieren werden,
+das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
+[hier](https://imgur.com/gallery/Se9Psgp) ist zu sehen wie das geht. 
 
 
 # Apps aus dem Playstore 
 
 
-Bitte alle herunterladen und installieren.
+**Bitte alle herunterladen und installieren.**
 
 -    [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de) ~ 3.59€ **einmalig**
 
@@ -45,19 +39,19 @@ Bitte alle herunterladen und installieren.
 -    [Watchmaker Premium](https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium) ~ 6.99€ **einmalig**
 
 
-Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese App ist dazu da, um die Vollversionen der Plugins von Tasker zu erwerben, hier lauft ihr jetzt die AutoTools Lizenz für 1.79€. Wenn der Kauf erfolgreich abgeschlossen wurde erkennt ihr das daran, dass das AutoTools nicht mehr ausgegraut ist sondern jetzt farbig dargestellt wird.
-Öffnet Tasker und AutoTools einmal und bestätigt bitte alle Berechtigungen nach denen geragt wird. Es wird auch eine Aufforderung zur Abschaltung der Akku-Optimierung angezeigt, meist aber erst wenn ihr die App über den Zurück button wieder beendet.
-Egal ob ihr eine Samsung Smartwatch mit Tizen OS habt oder eine Wear OS by Google Smartwatch. Die Apps aus dem Playstore benötigt ihr auf jeden Fall. Alle Preise sind nur einmalig zu bezahlen. KEIN ABO!
+Nachdem alle Apps gedownloadet sind, wird Auto Apps geöffnet, 
+hier kauft ihr jetzt die AutoTools Lizenz für 2.79€. 
+Öffnet Tasker und AutoTools einmal und bestätigt bitte alle Berechtigungen nach denen geragt wird.
+Es wird auch eine Aufforderung zur Abschaltung der Akku-Optimierung angezeigt, meist aber erst wenn ihr die App über den Zurück button wieder beendet.
 Wenn ihr eine Smartwatch von Samsung benutzt dann braucht ihr zusätzlich noch eine dieser beiden Apps aus dem Galaxy Store.
-Für die Samsung Uhren Modelle GearS2, Gear S3 und Galaxy Watch (Alle Versionen) nach dem installieren könnt ihr das Watchmaker Watchface wie alle anderen Watchfaces in der Watchface Übersicht auf der Uhr oder in der Galaxy Wearable App finden und auswählen :
-
-    -Watchmaker Companion Legacy 2.49€ http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzy
-
-Für die neuen Modelle Galaxy Active und Galaxy Active 2:
      
      -Watchmaker Companion 2.99€ http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzyw
 
-Für die Wear OS by Google Smartwatches öffnet ihr nach dem installieren der Watchmaker App auf dem Smartphone, den Playstore auf eurer Smartwatch dort scrollt ihr runter. Hier findet ihr das Watchmaker Watchface installiert es, danach könnt ihr es wie gewohnt direkt von der Uhr in der Watchfaceübersicht finden und auswählen odewr natürlich auch von der Wear App auf dem Smartphone.
+
+### Android Wear (Wear OS) Smartwatches Watchmaker Companion installieren 
+
+
+öffnet ihr nach dem installieren der Watchmaker App auf dem Smartphone, den Playstore auf eurer Smartwatch dort scrollt ihr runter. Hier findet ihr das Watchmaker Watchface installiert es, danach könnt ihr es wie gewohnt direkt von der Uhr in der Watchfaceübersicht finden und auswählen odewr natürlich auch von der Wear App auf dem Smartphone.
 ALLE PREISE SIND VOM 17.03.2020 DIESE PREISE WURDEN NICHT VON MIR ERHOBEN
 Wenn ihr alle Apps installiert habt, müsst ihr im Grunde genommen nur die Berechtigungen für Tasker und AutoTools erteilen.
 
