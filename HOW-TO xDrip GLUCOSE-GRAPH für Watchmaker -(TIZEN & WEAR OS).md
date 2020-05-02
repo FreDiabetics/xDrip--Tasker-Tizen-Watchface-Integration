@@ -99,7 +99,7 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
 
 
 
-#English [#english)]
+#English [#english]
 
 xDrip + Watchmaker project
 
