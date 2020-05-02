@@ -1,21 +1,20 @@
 # xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear *² smartwatch 
 
 
-- Watchmaker Profil [FREDERIKWAGNER311991](https://getwatchmaker.com/user/Bkd6tbYxr]
+- [Watchmaker Profil](https://getwatchmaker.com/user/Bkd6tbYxr]
 - [Apps](#apps-aus-dem-playstore)  
-- [Wear OS](#android-wear-(wear-os)-smartwatches-watchmaker-companion-installieren
-
-
-
-
-- ### For english version [click here](#english) or scroll down 
+- [Wear OS](#android-wear-(wear-os)-smartwatches-watchmaker-companion-installieren)
+- [English Version](#english) or scroll down 
 
     
-*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian, [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI),
+*im moment funktionieren nur die Watchfaces: xrip Dias , xDrip Sugar Guardian, [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI),
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
-   
-   
+
+
+
+
+
 **Zuerst muss die aktuellste xDrip Nightly installiert werden die gibts [hier](https://github.com/NightscoutFoundation/xDrip/releases)**
     
 Danach muss der lokale Broadcast aktivieren werden,
