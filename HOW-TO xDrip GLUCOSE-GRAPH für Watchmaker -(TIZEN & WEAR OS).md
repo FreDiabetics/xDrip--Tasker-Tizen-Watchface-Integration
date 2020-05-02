@@ -2,7 +2,7 @@ xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Sam
 
 
 
-[For English Version below click here](#for-english-version-below-click-here) or scroll down 
+[For English Version below click here](#english-version) or scroll down 
 
 
 
@@ -99,10 +99,10 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
 
 
 
-ENGLISH  
+#English Version  
 
-#For English Version below click here
-#for-english-version-below-click-here
+
+#english-version
 
 xDrip + Watchmaker project
 
