@@ -1,43 +1,50 @@
-xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear ** smartwatch 
+# xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear *² smartwatch 
 
 
 
-For english version [click here](#english) or scroll down 
-[Anchor links](#anchor-links)
+### For english version [click here](#english) or scroll down 
 
 
-Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
 
-Die Watchfaces sind hier zu finden: 
+    **Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools**
+
+    **Die Watchfaces sind hier zu finden:**
     
     https://getwatchmaker.com/user/Bkd6tbYxr 
 
 im moment funktionieren nur die Watchfaces: xDrip Diabadass mg/dl/mmol/l, xDrip Sugar Guardian mg/dl/mmol/l and xDrip Glucose Graph mg/dl/mmol/l
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
-Installiert bitte zuerst die aktuellste xdrip nightly von hier: 
-    https://github.com/NightscoutFoundation/xDrip/releases
+    **Installiert bitte zuerst die aktuellste xdrip nightly von hier:**
+    -https://github.com/NightscoutFoundation/xDrip/releases
     
 Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
 hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
 xDrip local Broadcast: 
 
-    https://imgur.com/gallery/Se9Psgp
+    -**https://imgur.com/gallery/Se9Psgp**
 
-
+>      * Item 1;
+>	      * Item 1.1;
+>	    * Item 2;
+>	     * Item 2.1;
+>	     * Item 2.2;
+>	    * Item 3
+>		   * Item 3.1;
+>			  * Item 3.1.1;
 
 Apps aus derm Playstore:
 Bitte alle herunterladen und installieren.
 
-    -Tasker 3.59€ https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de 
+    **-Tasker 3.59€ https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de**
 
-    -AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools 
+    **-AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools**
 
-    -AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub 
+    **-AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub**
 
-    -Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy
+    **-Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy**
 
-    -Watchmaker Premium 6.99€ https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium
+    **-Watchmaker Premium 6.99€ https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium**
 
 Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese App ist dazu da, um die Vollversionen der Plugins von Tasker zu erwerben, hier lauft ihr jetzt die AutoTools Lizenz für 1.79€. Wenn der Kauf erfolgreich abgeschlossen wurde erkennt ihr das daran, dass das AutoTools nicht mehr ausgegraut ist sondern jetzt farbig dargestellt wird.
 Öffnet Tasker und AutoTools einmal und bestätigt bitte alle Berechtigungen nach denen geragt wird. Es wird auch eine Aufforderung zur Abschaltung der Akku-Optimierung angezeigt, meist aber erst wenn ihr die App über den Zurück button wieder beendet.
@@ -99,43 +106,41 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
 
 
 
-## Anchor links
 
-#English [#english]
 
-xDrip + Watchmaker project
+# English
 
-What you need: xDrip, Watchmaker, Tasker, AutoTools
 
-The watch faces can be found here: 
+    **What you need: xDrip, Watchmaker, Tasker, AutoTools**
 
-    https://getwatchmaker.com/user/Bkd6tbYxr 
+    **The watch faces can be found here:** 
+
+    **https://getwatchmaker.com/user/Bkd6tbYxr** 
 
 at the moment only the watch faces work: xDrip Diabadass mg / dl / mmol / l, xDrip Sugar Guardian mg / dl / mmol / l and xDrip Glucose Graph mg / dl / mmol / l
 All others will be adapted to this new manual in the next few weeks and will then also be available.
 
-Please install the latest xdrip nightly from here: 
+    **Please install the latest xdrip nightly from here:** 
     https://github.com/NightscoutFoundation/xDrip/releases
     
 Then you have to activate the local broadcast. This is done in the settings in the "Inter-App Settings" menu.
 here you see exactly what you have to do so that xDrip makes the values available for Tasker, very important !! otherwise nothing works!
 xDrip local broadcast: 
 
-    https://imgur.com/gallery/Se9Psgp
+    **https://imgur.com/gallery/Se9Psgp**
 
 
-Apps from the playstore:
-Please download and install them all.
+### Apps from the playstore ~ Please download and install them all.
 
-    -Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de
+    **-Tasker 3.59 € https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de**
 
-    -AutoTools € 1.79 (only to be purchased via the AutoApps app, must be purchased) https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
+    **-AutoTools € 1.79 (only to be purchased via the AutoApps app, must be purchased) https://play.google.com/store/apps/details?id=com.joaomgcd.autotools**
 
-    -AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub
+    **-AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub**
 
-    -Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy
+    **-Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy**
 
-    -Watchmaker Premium 6.99 € https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium
+    **-Watchmaker Premium 6.99 € https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium**
 
 After you have downloaded all the apps, the first thing you do is open AutoApps. This app is there to purchase the full versions of Tasker’s plugins. You can now run the AutoTools license for € 1.79. If the purchase has been successfully completed, you can tell that the AutoTools is no longer grayed out but is now shown in color.
 
@@ -145,11 +150,11 @@ No matter if you have a Samsung Smartwatch with Tizen OS or a Wear OS by Google 
 If you use a Samsung smartwatch, you also need one of these two apps from the Galaxy Store.
 For the Samsung watch models GearS2, Gear S3 and Galaxy Watch (all versions) after installing you can find and select the Watchmaker Watchface like all other watch faces in the watch face overview on the watch or in the Galaxy Wearable app:
     
-    -Watchmaker Companion Legacy 2.49 € http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzy
+    **-Watchmaker Companion Legacy 2.49 € http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzy**
 
 For the new Galaxy Active and Galaxy Active 2 models:
 
-    -Watchmaker Companion 2.99 € http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzyw
+    **-Watchmaker Companion 2.99 € http://apps.samsung.com/gear/appDetail.as?appId=slide.watchFrenzyw**
 
 For the Wear OS by Google Smartwatches you open after installing the Watchmaker app on the smartphone, you scroll down the Playstore on your Smartwatch there. Here you will find the Watchmaker Watchface installs it, then you can find and select it as usual directly from the watch in the Watchface overview or of course also from the Wear app on the smartphone.
 ALL PRICES ARE FROM 03/17/2020 THESE PRICES WERE NOT COLLECTED BY ME
@@ -179,7 +184,7 @@ The apps are now all installed and you can import the Tasker project from me.
 
 Click on the following link, you will be redirected to the Taskernet page in your browser.
 
-    https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project
+    **https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project**
 
 Under the description there is a green button "Import" which you press, then Tasker opens and 2-3 messages appear one after the other which you confirm with "Yes".
 Now an xDrip icon appears next to the little house. This is the sign that everything has worked.
@@ -192,4 +197,4 @@ Or you look for it in my Watchmaker profile. All watch faces created so far will
 
 
 
-#*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2
+    **#*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)
