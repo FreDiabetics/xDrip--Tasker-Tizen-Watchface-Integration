@@ -6,37 +6,38 @@
 
 
 
-**Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools**
+Was du brauchst: xDrip, Watchmaker, Tasker, AutoTools**
 
     Die Watchfaces sind hier zu finden:
     
 -    https://getwatchmaker.com/user/Bkd6tbYxr 
 
-*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian  and xDrip Glucose Graph 
+*im moment funktionieren nur die Watchfaces: xDrip Diabadass , xDrip Sugar Guardian  and [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI) 
 Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann aiuch verfügbar.
 
     **Installiert bitte zuerst die aktuellste xdrip nightly von hier:**
 -    https://github.com/NightscoutFoundation/xDrip/releases
     
 Danach müsst ihr den lokalen Broadcast aktivieren das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
-hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
+klick hier seht ihr was hier genau machen müsst damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
 xDrip local Broadcast: 
 
--    **https://imgur.com/gallery/Se9Psgp**
+
 
 
 Apps aus derm Playstore:
 Bitte alle herunterladen und installieren.
 
-    **-Tasker 3.59€ https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de**
+-    [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de) ~ 3.59€ **einmalig**
 
-    **-AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools**
+-    [AutoApps](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub)
 
-    **-AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub**
+-    [AutoTools](https://play.google.com/store/apps/details?id=com.joaomgcd.autotools) (Nur über die App AutoApps zu kaufen, muss gekauft werden) ~ 2,79€ **einmalig**
 
-    **-Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy**
+-    [Watchmaker](https://play.google.com/store/apps/details?id=slide.watchFrenzy)
 
-    **-Watchmaker Premium 6.99€ https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium**
+-    [Watchmaker Premium](https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium) ~ 6.99€ **einmalig**
+
 
 Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese App ist dazu da, um die Vollversionen der Plugins von Tasker zu erwerben, hier lauft ihr jetzt die AutoTools Lizenz für 1.79€. Wenn der Kauf erfolgreich abgeschlossen wurde erkennt ihr das daran, dass das AutoTools nicht mehr ausgegraut ist sondern jetzt farbig dargestellt wird.
 Öffnet Tasker und AutoTools einmal und bestätigt bitte alle Berechtigungen nach denen geragt wird. Es wird auch eine Aufforderung zur Abschaltung der Akku-Optimierung angezeigt, meist aber erst wenn ihr die App über den Zurück button wieder beendet.
@@ -176,7 +177,7 @@ The apps are now all installed and you can import the Tasker project from me.
 
 Click on the following link, you will be redirected to the Taskernet page in your browser.
 
-    **https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project**
+       https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project
 
 Under the description there is a green button "Import" which you press, then Tasker opens and 2-3 messages appear one after the other which you confirm with "Yes".
 Now an xDrip icon appears next to the little house. This is the sign that everything has worked.
@@ -189,4 +190,4 @@ Or you look for it in my Watchmaker profile. All watch faces created so far will
 
 
 
--    ***Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)
+-    ##*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2 *² For Android Wear Information please visit the Watchmaker Wiki [here](https://watchmaker.haz.wiki/get_on_watch)
