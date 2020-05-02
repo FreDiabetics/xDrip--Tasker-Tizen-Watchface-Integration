@@ -1,8 +1,8 @@
-######xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear ** smartwatch 
+xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear ** smartwatch 
 
 
 
-#[For English Version below click here](#for-english-version-below-click-here) or scroll down 
+[For English Version below click here](#for-english-version-below-click-here) or scroll down 
 
 
 
@@ -99,7 +99,10 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
 
 
 
-ENGLISH  #for-english-version-below-click-here
+ENGLISH  
+
+#For English Version below click here
+#for-english-version-below-click-here
 
 xDrip + Watchmaker project
 
