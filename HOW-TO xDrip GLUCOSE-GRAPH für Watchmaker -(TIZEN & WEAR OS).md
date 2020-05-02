@@ -1,4 +1,10 @@
-xDrip+ Watchmaker Projekt 
+######xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear ** smartwatch 
+
+
+
+#[For English Version below click here](#for-english-version-below-click-here) or scroll down 
+
+
 
 Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
 
@@ -85,9 +91,7 @@ xDrip local Broadcast:
 
 Am Ende müsst ihr noch die EInstellungen im Watchmaker Watchface einstellen. dazu tippt ihr zweimal schnell auf das watchface es öffnet sich die watchmaker watchface Übersicht, links und rechts am Bildschirmrand erscheinen Pfeil mit denen ihr navigieren könnt. drück nach Links um die Einstellungen zu erreichen. Die einstellungen "Update Heart rate" und "Update Steps" stellt ihr bitte auf "On every Watch wake up" dann stellt ihr die Einstellungen "Enable Transisitions", "Enable Shaders" und "Enable Text Effects" auf ENABLE.
 
-Wenn das erledigt ist seit ihr fertig und ihr könnt nun das Watchface entweder hier direkt downloaden:
-  
-     https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/tree/master/Watchfaces
+Wenn das erledigt ist seit ihr fertig und ihr könnt nun das Watchface entweder [hier direkt downloaden](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/tree/master/Watchfaces)
 
 Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces werden in den nächsten Monaten auf dieses Anleitung angepasst. Das heisst es werden am Ende alle bisher veröffentlichten Watchfaces aus meinem Watchmaker Profil mit dieser Anleitung zu benutzen
 
@@ -95,7 +99,7 @@ Oder ihr sucht es in meinem Watchmaker Profil. Alle bisher erstellten Watchfaces
 
 
 
-ENGLISH
+ENGLISH  #for-english-version-below-click-here
 
 xDrip + Watchmaker project
 
@@ -180,8 +184,10 @@ Now an xDrip icon appears next to the little house. This is the sign that everyt
 
 At the end you have to adjust the settings in the Watchmaker Watchface. To do this, quickly tap the watchface twice. The watchmaker watchface overview opens, and arrows appear on the left and right of the screen with which you can navigate. press left to reach the settings. Please set the settings "Update Heart rate" and "Update Steps" to "On every Watch wake up" then you set the settings "Enable Transisitions", "Enable Shaders" and "Enable Text Effects" to ENABLE.
 
-When this is done you are ready and you can now download the watchface either here: 
-
-    https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/tree/master/Watchfaces
+When this is done you are ready and you can now download the watchface [here directly](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/tree/master/Watchfaces)
 
 Or you look for it in my Watchmaker profile. All watch faces created so far will be adapted to this manual in the next few months. That means in the end all watch faces published from my Watchmaker profile will be used with these instructions
+
+
+
+#*Galaxy Gear 2, 3, 3Frontier, Galaxy Watch 42mm/46mm, Galaxy Watch Active, Galaxy Watch Active 2
