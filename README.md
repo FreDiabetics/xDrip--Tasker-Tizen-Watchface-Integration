@@ -30,7 +30,7 @@ All other watchfaces will be adapted to the new manual in the next few weeks and
 
 ## Functionaility                                                                             
 
-**- {tXSGV} - latest Glucose **
+**- {tXSGV}  latest Glucose**
 
    This shows the last recieved Glucosevalue, 
    you can change the glucosunits from mmg/dl to mmol/L 
