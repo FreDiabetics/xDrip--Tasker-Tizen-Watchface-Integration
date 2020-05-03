@@ -88,7 +88,7 @@
 
 ### Contact
 
-#### E:Mail:<typ1.diafreddy@gmail.com>
+#### [E:Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
 #### [Paypal](paypal.me/diafreddy)
 
