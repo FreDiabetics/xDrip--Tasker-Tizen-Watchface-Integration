@@ -55,11 +55,10 @@ All other watchfaces will be adapted to the new manual in the next few weeks and
    
 **- Glucose Graph**
 
-  My Tasker project is adjusted to update values every 1 minute. The Watchfaces itself
-  are adjusted to fetch data on every watch bright or when you click the depending 
-  Tap Action on the Watchface. 
-  Some Watchfaces have scalable Graphs. 
-  f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
+  My Tasker project is adjusted to update values every 1 minute. 
+  The Watchfaces itself are adjusted to fetch data on every watch 
+  bright or when you click the depending Tap Action on the Watchface. 
+  Some Watchfaces have scalable Graphs. f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
   is scaleable from 1,5h, 3h and 6h 
 
 
