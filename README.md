@@ -8,13 +8,11 @@
 
 
 
+   **-[Basics](#basic-glucose-functionaility)**
 
-
-   **-[Functionality](#multifunctional)**
+   **-[Functions](#multifunctional)**
    
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
-   
-   **-[Basics](#basic-glucose-functionaility)**
    
    **-[Support](#Contact)**
 
