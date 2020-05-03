@@ -88,20 +88,13 @@
 
 ### Contact
 
-
-### E:Mail:<typ1.diafreddy@gmail.com>
-
-
-### [Paypal](paypal.me/diafreddy)
+#### E:Mail:<typ1.diafreddy@gmail.com>
+#### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
+#### [Paypal](paypal.me/diafreddy)
 
 
-### Stay Healthy!! Watch Your Glucose ;)
+## Stay Healthy!! Watch Your Glucose ;)
 
-
-
-
-
-### FreDiabetics
 
 
 
