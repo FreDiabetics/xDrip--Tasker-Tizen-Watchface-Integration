@@ -69,20 +69,27 @@
     
    Current noise level for your sensorreadings
    
-**- {tXINSULIN}**
+**- {tXINSULIN} Bolus-Insulin**
 
    Insulin you added in xDrip for Bolus
    
-**- {tXSAGE}**
+**- {tXSAGE} Sensor Age**
 
    Current sensor age
    
-   
-   
-   
- **-Anleitungen im [Wiki] oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)**
+**- {tXDEVICE} Source**
 
- **-Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)**
+   Your xDrip Source, _f.e.:G6 Native, Share, Follower, Nightscout a.o._
+   
+   
+   
+   
+### **_Anleitungen im [Wiki] oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
+
+### **_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
+
+
+
 
 
 
