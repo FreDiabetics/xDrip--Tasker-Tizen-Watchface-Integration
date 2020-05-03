@@ -47,11 +47,11 @@
 ### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET
 
 ![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_Ucolor_cyan.png)
-***
 
 
 
-### Basic Glucose Functionaility                                                                             
+
+# Basic Glucose Functionaility                                                                             
 
 **- {tXSGV}  latest Glucose** 
 
