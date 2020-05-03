@@ -12,6 +12,8 @@
 
    **-[Different Functions](#multifunctional)**
    
+   **-[Glucose Graph with up to 6 hours Trend](#glucose-graph)**
+   
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
    
    **-[Support](#contact)**
@@ -35,7 +37,9 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine__2_watches.png)
 
+### GLUCOSE GRAPH
 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_Teasering_4_watches_.png)
 
 ### Multifunctional
 #### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
