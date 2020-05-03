@@ -105,7 +105,7 @@
 
 
 
-#  Contact:
+###  Contact:
 
 #### [G-Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
@@ -113,18 +113,18 @@
 
 
 
+
+
+### Stay Healthy!! Watch Your Glucose ;)
+
+
+
+
+
+
+
+
 ***
-
-# Stay Healthy!! Watch Your Glucose ;)
-
-
-
-
-
-
-
-
-
 
 **_Anleitungen im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
