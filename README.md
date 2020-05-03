@@ -18,6 +18,7 @@ All other watchfaces will be adapted to the new manual in the next few weeks and
 
 
 ### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
+#### (read watchface description for the depending tap actions)
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_1_sage_info.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_3_mgdl.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_2_mmol.png)
 
@@ -28,7 +29,7 @@ All other watchfaces will be adapted to the new manual in the next few weeks and
 
 
 
-## Functionaility                                                                             
+## Glucose Functionaility                                                                             
 
 **- {tXSGV}  latest Glucose**
 
@@ -52,12 +53,14 @@ All other watchfaces will be adapted to the new manual in the next few weeks and
    this is the timestamp that gives you information about how much 
    time has left since the last glucosereading
    
-**- BG Graph**
+**- Glucose Graph**
 
   My Tasker project is adjusted to update values every 1 minute. The Watchfaces itself
   are adjusted to fetch data on every watch bright or when you click the depending 
   Tap Action on the Watchface. 
-
+  Some Watchfaces have scalable Graphs. 
+  f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
+  is scaleable from 1,5h, 3h and 6h 
 
 
 
