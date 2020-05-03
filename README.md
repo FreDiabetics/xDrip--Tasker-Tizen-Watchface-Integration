@@ -153,7 +153,7 @@ An dieser Stelle möchte ich meinem Freund [Jon Fawcett](https://github.com/jonf
 
 At this point I would like to thank my friend [Jon Fawcett](https://github.com/jonfawcett) for providing me with the basic things. He wrote a guide to display the night scout values of an iOS loop to a Samsung smartwatch. If you want to know how to get this done, read on [here](https://github.com/jonfawcett/Nightscout-Tasker-Tizen-Watchface-Integration)
 
-
+***
 
 **_Anleitungen im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
