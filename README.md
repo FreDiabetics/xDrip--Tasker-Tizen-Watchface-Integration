@@ -12,7 +12,7 @@
 
    **-[Different Functions](#multifunctional)**
    
-   **-[Glucose Graph with up to 6 hours Trend](#glucose-graph)**
+   **-[Glucose Graph + AndroidAPS Statusline for Loop Info](#glucose-graph-and-androidaps-statusline-for-closed-loop-information)**
    
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
    
@@ -37,7 +37,7 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine__2_watches.png)
 
-### GLUCOSE GRAPH
+### GLUCOSE GRAPH AND ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_Teasering_4_watches_.png)
 
@@ -56,51 +56,54 @@
 
 # Basic Glucose Functionaility                                                                             
 
-**- {tXSGV}  latest Glucose** 
+-  **{tXSGV} - _latest Glucose Reading_** 
 
-   This shows the last recieved Glucosevalue, 
+   **This shows the last recieved Glucosevalue, 
    you can change the glucosunits from mmg/dl to mmol/L 
    on every watchface. (Only the marked Watchfaces in the WIKI
-   are supporting this feature.
+   are supporting this feature.**
 
-**- {tXDELTA} Delta**
+-  **{tXDELTA} - _Delta_**
 
-   This is the last delta - change from last reading to current reading
+   **This is the last delta - change from last reading to current reading**
    
-**- {tTREND} Trendarrow**
+-  **{tTREND} - _Trendarrow_**
 
-  The Trendarrow is related to the delta value above it doesn't 
-  show the predicited glucosetrend
+   **The Trendarrow is related to the delta value above it doesn't 
+   show the predicited glucosetrend**
 
-**- {tXMINS} minutes left since last reading**
+-  **{tXMINS} - _minutes left since last reading_**
 
-   The timestamp that gives you information about how much 
-   time has left since the last glucosereading
+   **The timestamp that gives you information about how much 
+   time has left since the last glucosereading**
    
-**- Glucose Graph**
+-  **Glucose Graph**
 
-  My Tasker project is adjusted to update values every 1 minute. 
-  The Watchfaces itself are adjusted to fetch data on every watch 
-  bright or when you click the depending Tap Action on the Watchface. 
-  Some Watchfaces have scalable Graphs. f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
-  is scaleable from 1,5h, 3h and 6h 
+   **My Tasker project is adjusted to update values every 1 minute. 
+   The Watchfaces itself are adjusted to fetch data on every watch 
+   bright or when you click the depending Tap Action on the Watchface. 
+   Some Watchfaces have scalable Graphs. f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
+   is scaleable from 1,5h, 3h and 6h** 
 
-**- {tXNOISE} Noiselevels**
+- **{tXNOISE} - _noiselevels_**
     
-   Current noise level for your sensorreadings
+   **Current noise level for your sensorreadings**
    
-**- {tXINSULIN} Bolus-Insulin**
+- **{tXINSULIN} - _bolus-insulin_**
 
-   Insulin you added in xDrip for Bolus
+   **nsulin you added in xDrip for bolus**
    
-**- {tXSAGE} Sensor Age**
+- **{tXSAGE} * _sensor age_**
 
-   Current sensor age
+   **Current sensor age**
    
-**- {tXDEVICE} Source**
+- **{tXDEVICE} - _xDrip+ source_**
 
-   Your xDrip Source, _f.e.:G6 Native, Share, Follower, Nightscout a.o._
+   **Your xDrip source, _f.e.:G6 Native, Share, Follower, Nightscout _**
 
+-  **{tXSLINE} - _AndroidAPS Statusline_**
+
+   **For additional Closed Loop Information from AndroidAPS, this can be splitted in two seperate pieces just use {tXSLINE1} and {tXSLINE2} instead**
 
 ***
 
