@@ -1,6 +1,15 @@
 # xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
    
    
+
+
+
+
+
+
+
+
+
    **-[Functionality](#multifunctional)**
    
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
@@ -8,6 +17,12 @@
    **-[Basics](#basic-glucose-functionaility)**
    
    **-[Support](#Contact)**
+
+
+
+
+
+
 
 ***
 
