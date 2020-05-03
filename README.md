@@ -1,18 +1,14 @@
 # xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
-
-    
    
    
-   
-   
-   
-   
-   
-   
+   **-[Basics](#basic-glucose-functionaility)**
    **-[Support](#Contact)**
 
 
 
+
+
+***
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)           ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
 
 
@@ -30,7 +26,7 @@
 ### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET AT TAP 6
 
 ![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_Ucolor_cyan.png)
-
+***
 
 
 
@@ -80,25 +76,33 @@
 **- {tXDEVICE} Source**
 
    Your xDrip Source, _f.e.:G6 Native, Share, Follower, Nightscout a.o._
-   
-   
-   
+
+***  
+
+
+
+
+
+
    
 ### **_Anleitungen im [Wiki] oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
 ### **_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
+***
 
 
 
 
 
-
-### Contact
+###  Contact
 
 #### [G-Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
 #### [Paypal](paypal.me/diafreddy)
 
+
+
+***
 
 ## Stay Healthy!! Watch Your Glucose ;)
 
