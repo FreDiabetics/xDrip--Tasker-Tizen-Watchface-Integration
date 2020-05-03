@@ -10,13 +10,13 @@
 
    **-[Basics](#basic-glucose-functionaility)**
 
-   **-[Functions](#multifunctional)**
+   **-[Different Functions](#multifunctional)**
    
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
    
-   **-[Support](#Contact)**
+   **-[Support](#contact)**
 
-   **-[Special Thanks](#specia-thanks)**
+   **-[Special Thanks](#special-thanks)**
 
 
 
