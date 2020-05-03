@@ -105,7 +105,7 @@
 
 
 
-###  Contact
+#  Contact:
 
 #### [G-Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
@@ -115,7 +115,7 @@
 
 ***
 
-## Stay Healthy!! Watch Your Glucose ;)
+# Stay Healthy!! Watch Your Glucose ;)
 
 
 
@@ -129,7 +129,7 @@
 **_Anleitungen im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
 **_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
-***
+
 
 **-_im moment funktionieren nur diese Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
   Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann in neuem Design verfügbar._**
