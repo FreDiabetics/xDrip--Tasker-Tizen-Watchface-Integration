@@ -1,11 +1,11 @@
 # xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
 
     
- _im moment funktionieren nur die Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One], [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
-  Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann in neuem Design verfügbar._
+ **-_im moment funktionieren nur die Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One], [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
+  Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann in neuem Design verfügbar._**
 
- _at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One], [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
-  All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._
+ **-_at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One], [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
+  All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._**
 
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_1_tap_actions.png)           ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
@@ -29,9 +29,9 @@
 
 
 
-## Glucose Functionaility                                                                             
+### Basic Glucose Functionaility                                                                             
 
-**- {tXSGV}  latest Glucose**
+**- {tXSGV}  latest Glucose** 
 
    This shows the last recieved Glucosevalue, 
    you can change the glucosunits from mmg/dl to mmol/L 
@@ -42,15 +42,14 @@
 
    This is the last delta - change from last reading to current reading
    
-   
 **- {tTREND} Trendarrow**
 
-  This Trend is related to the delta value above it doesn't 
+  The Trendarrow is related to the delta value above it doesn't 
   show the predicited glucosetrend
 
 **- {tXMINS} minutes left since last reading**
 
-   this is the timestamp that gives you information about how much 
+   The timestamp that gives you information about how much 
    time has left since the last glucosereading
    
 **- Glucose Graph**
@@ -61,11 +60,24 @@
   Some Watchfaces have scalable Graphs. f.e: [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI)
   is scaleable from 1,5h, 3h and 6h 
 
+**- {tXNOISE} Noiselevels**
+    
+   Current noise level for your sensorreadings
+   
+**- {tXINSULIN}**
 
+   Insulin you added in xDrip for Bolus
+   
+**- {tXSAGE}**
 
- *Anleitungen können im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) gefunden werden oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)
+   Current sensor age
+   
+   
+   
+   
+ **_-Anleitungen können im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) gefunden werden oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_
 
- *Instructions can be found in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or click [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)
+ **-_Instructions can be found in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or click [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
 
 
