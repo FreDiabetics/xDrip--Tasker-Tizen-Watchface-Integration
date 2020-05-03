@@ -1,6 +1,20 @@
 # xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
 
     
+   
+   
+   
+   
+   
+   
+   
+   
+   **-[Support](#Contact)**
+    
+    
+    
+    
+    
  **-_im moment funktionieren nur die Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One], [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
   Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann in neuem Design verfügbar._**
 
