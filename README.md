@@ -80,15 +80,15 @@
    
    
    
- **_-Anleitungen können im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) gefunden werden oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_
+ **_-Anleitungen im [Wiki] oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_
 
- **-_Instructions can be found in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or click [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
+ **-_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/Ausf%C3%BChrliche-Anleitung)_**
 
 
 
 ### Contact
 
-#### [E:Mail](<typ1.diafreddy@gmail.com>)
+#### [G-Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
 #### [Paypal](paypal.me/diafreddy)
 
