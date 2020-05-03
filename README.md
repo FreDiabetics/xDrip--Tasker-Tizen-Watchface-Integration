@@ -1,5 +1,6 @@
 # xDrip + Watchmaker Project - xDrip Glucose - via Watchmaker + Tasker on your Samsung * or Android Wear *² smartwatch 
 
+- [Start here](#los-gehts)
 - [Watchmaker Profil](https://getwatchmaker.com/user/Bkd6tbYxr)
 - [Apps](#apps-aus-dem-playstore)  
 - [Wear OS](#android-wear)
@@ -11,7 +12,13 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_1_tap_actions.png) ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
 
-**Zuerst muss die aktuellste xDrip Nightly installiert werden die gibts [hier](https://github.com/NightscoutFoundation/xDrip/releases)**
+
+
+
+# Los gehts
+
+
+*Zuerst muss die aktuellste xDrip Nightly installiert werden die gibts [hier](https://github.com/NightscoutFoundation/xDrip/releases)**
     
 Danach muss der lokale Broadcast aktivieren werden,
 das geht in den Einstellungen im Menü "Inter-App Einstellungen" 
