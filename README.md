@@ -1,15 +1,20 @@
 # xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
    
    
+   **-[Functionality](#multifunctional)**
+   
+   **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
+   
    **-[Basics](#basic-glucose-functionaility)**
+   
    **-[Support](#Contact)**
 
-
-
-
-
 ***
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)           ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
+
+
+
+
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
 
 
 ### DIFFERENT COLOR GRADIENTS
@@ -18,12 +23,13 @@
 
 
 
-### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
+### Multifunctional
+#### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
 #### (read watchface description for the depending tap actions)
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_1_sage_info.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_3_mgdl.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_2_mmol.png)
 
-### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET AT TAP 6
+### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET
 
 ![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_Ucolor_cyan.png)
 ***
