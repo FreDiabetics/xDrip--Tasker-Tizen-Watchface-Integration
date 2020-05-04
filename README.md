@@ -20,8 +20,7 @@
 
    **-[Special Thanks](#special-thanks)**
 
-
-
+   **-[Additional](#additional)**
 
 
 
@@ -177,8 +176,7 @@ At this point I would like to thank my friend [Jon Fawcett](https://github.com/j
 
 
 
-***
-######
+###### Additional
 
 -  **_*¹ Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
 -  **_*² Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
