@@ -1,4 +1,4 @@
-# xDrip Glucose Watchface - for Tizen OS (Samsung) Smartwatch and Wear OS Smarwatch
+# xDrip Glucose Watchface - for Tizen OS(Samsung)-Smartwatch*¹ and Wear OS Smarwatch**²
    
    
 
@@ -173,3 +173,12 @@ At this point I would like to thank my friend [Jon Fawcett](https://github.com/j
 **-_at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
   All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._**
   
+
+
+
+
+***
+######
+
+-  **_*¹ Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
+-  **_*² Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
