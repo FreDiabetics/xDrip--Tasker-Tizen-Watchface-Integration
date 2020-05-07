@@ -114,7 +114,11 @@
 
 #### [G-Mail](<typ1.diafreddy@gmail.com>)
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
-#### [Paypal](paypal.me/diafreddy)
+#### [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)
+
+#### **If you wanna buy me a coffee or support me in pushing this repo as actual as I can afford it than use the button above :) Thanks for your support**
+
+
 
 
 
@@ -176,12 +180,9 @@ At this point I would like to thank my friend [Jon Fawcett](https://github.com/j
 
 
 
--  ####  Additional
+####  Additional
 
 -  **_*¹ Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
 -  **_*² Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
 
--  ###   Donation
-If you wanna buy me a coffee or support me in pushing this repo as actual as I can afford it than use the button below :) Thanks for your support
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)
