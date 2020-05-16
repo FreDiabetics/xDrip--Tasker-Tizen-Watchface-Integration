@@ -1,12 +1,12 @@
 # xDrip Glucose Watchface - for Tizen OS(Samsung)-Smartwatch*¹ and Wear OS Smarwatch**²
-   
-   
 
 
 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/xDrip%20Watchface%20MockUp-100.jpg)
 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            
 
-
+***
 
    **-[Basics](#basic-glucose-functionaility)**
 
@@ -21,17 +21,6 @@
    **-[Special Thanks](#special-thanks)**
 
    **-[Additional](#additional)**
-
-
-
-***
-
-
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/xDrip%20Watchface%20MockUp-100.jpg)
-
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            
-
-
 
 
 ### GLUCOSE GRAPH & ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION 
