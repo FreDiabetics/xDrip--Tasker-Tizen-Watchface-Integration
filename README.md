@@ -2,9 +2,7 @@
 
 
 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/xDrip%20Watchface%20MockUp-100.jpg)
 
-***
 
    **-[Basics](#basic-glucose-functionaility)**
 
