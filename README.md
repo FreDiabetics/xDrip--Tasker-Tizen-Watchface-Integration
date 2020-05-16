@@ -1,4 +1,4 @@
-# xDrip Glucose Watchface - for Tizen OS(Samsung)-Smartwatch*¹ and Wear OS Smarwatch**²
+# xDrip Glucose Watchface - for Tizen OS(Samsung) Smartwatches*¹ and Wear OS (former Android Wear) Smartwatches**²
 
 
 
@@ -13,34 +13,38 @@
    **-[Ucolor Set](#choose-your-own-favourite-color-with-the-ucolor-colorset)**
    
    **-[Support](#contact)**
+   
+   **-[Future Projects](#future-projects)**
 
    **-[Special Thanks](#special-thanks)**
 
    **-[Additional](#additional)**
 
 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_basic_preset.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_basic_graphview.png)
+
+
+
+
 ### GLUCOSE GRAPH & ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION 
 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_Teasering_4_watches_.png)
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/4%20watches.png)
 
 ### Multifunctional
 #### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
 #### (read watchface description for the depending tap actions)
 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_1_sage_info.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_3_mgdl.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_2_mmol.png)
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/3%20watches%20.png)
 
 ### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET & 4 DIFFERENT COLOR GRADIENTS
 
-![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_Ucolor_cyan.png)
+![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/ucolor.png)
 
 
 
 
-# Basic Glucose Functionaility                                        
-
-
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)            
-
+       
+# Basic Glucose Functionaility
 
 -  **{tXSGV} - _latest Glucose Reading_** 
 
@@ -121,20 +125,18 @@
 
 
 ***
+### Future Projects
+##### _these watchfaces display loop information from androidaps via nightscout. this is a tasker project which is currently under development._
 
-### xDrip Glucose Quarantine
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_on_gw_46mm-100.jpg)
-
-
-### xDrip Diabadass 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/diabadass_on_gw_46mm-100.jpg)
+### xDrip AndroidAPS Diabadass 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20diabdass.png)
 
 
-### xDrip AndroidAPS Loop 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/android_aps_loop_watchface-100.jpg)
+### xDrip AndroidAPS Gradient Bubbles 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20gradient%20bubbles.png)
 
 
-##### this watchfaces shows loop info from androidaps over nightscout. this is a tasker-project which is currently under construction.
+##### these watchfaces display loop information from androidaps via nightscout. this is a tasker project which is currently under development.
 
 
 
