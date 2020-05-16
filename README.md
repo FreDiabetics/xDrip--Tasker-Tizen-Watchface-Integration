@@ -32,11 +32,9 @@
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            
 
 
-### DIFFERENT COLOR GRADIENTS
 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine__2_watches.png)
 
-### GLUCOSE GRAPH AND ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION
+### GLUCOSE GRAPH & ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION 
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_Teasering_4_watches_.png)
 
@@ -46,7 +44,7 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_1_sage_info.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_3_mgdl.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_2_mmol.png)
 
-### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET
+### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET & 4 DIFFERENT COLOR GRADIENTS
 
 ![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_active_Ucolor_cyan.png)
 
