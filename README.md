@@ -105,7 +105,7 @@
 #### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
 #### [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)
 
-#### **If you wanna buy me a coffee or support me in pushing this repo as actual as I can afford it than use the button above :) Thanks for your support**
+#### **If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine 🍷. Thanks for your support**
 
 
 
