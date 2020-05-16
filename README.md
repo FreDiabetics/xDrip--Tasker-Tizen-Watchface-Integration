@@ -27,9 +27,9 @@
 ***
 
 
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/xDrip%20Watchface%20MockUp-100.jpg)
 
-
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            ![myimgb](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/glucose_quarantine_preset_2_graphview_xtrastatusline.png)
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            
 
 
 ### DIFFERENT COLOR GRADIENTS
