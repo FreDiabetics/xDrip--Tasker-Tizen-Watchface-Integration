@@ -4,8 +4,6 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/xDrip%20Watchface%20MockUp-100.jpg)
 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)                            
-
 ***
 
    **-[Basics](#basic-glucose-functionaility)**
@@ -40,7 +38,11 @@
 
 
 
-# Basic Glucose Functionaility                                                                             
+# Basic Glucose Functionaility                                        
+
+
+![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/Glucose-Quarantine_preview_tap_actions.png)            
+
 
 -  **{tXSGV} - _latest Glucose Reading_** 
 
