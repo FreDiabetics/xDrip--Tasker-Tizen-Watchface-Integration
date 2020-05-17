@@ -36,9 +36,9 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/3%20watches%20.png)
 
-### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE UCOLOR COLORSET & 4 DIFFERENT COLOR GRADIENTS
+### CHOOSE YOUR OWN FAVOURITE COLOR WITH THE BUILT-IN UCOLOR COLORSET
 
-![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/ucolor.png)
+![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/UCOLOR_1.png)
 
 
 
