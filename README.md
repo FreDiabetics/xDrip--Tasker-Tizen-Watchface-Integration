@@ -1,4 +1,4 @@
-# xDrip Glucose Watchface - for Tizen OS(Samsung) Smartwatches*¹ and Wear OS (former Android Wear) Smartwatches**²
+# xDrip Glucose Quarantine Watchface for [Samsung Tizen OS Smartwatches*¹](#additional) and Wear OS by Google (former Android Wear) Smartwatches**²
 
    **-[Basics](#basic-glucose-functionaility)**
 
@@ -13,8 +13,6 @@
    **-[Future Projects](#future-projects)**
 
    **-[Special Thanks](#special-thanks)**
-
-   **-[Additional](#additional)**
 
    **-[Watchmaker Profile](https://getwatchmaker.com/user/Bkd6tbYxr)**
 
@@ -67,23 +65,23 @@
 
 - **{tXNOISE} - _noiselevels_**
     
-   **Current noise level for your sensorreadings**
+  **Current noise level for your sensorreadings**
    
 - **{tXINSULIN} - _bolus-insulin_**
 
-   **Insulin you added in xDrip for bolus**
+  **Insulin you added in xDrip for bolus**
    
-- **{tXSAGE} * _sensor age_**
+- **{tXSAGE} - _sensor age_**
 
-   **Current sensor age**
+  **Current sensor age**
    
-- **{tXDEVICE} - _xDrip+ source_**
+- **{tXDEVICE} - _xDrip+ datasource_**
 
-   **Your xDrip source, _f.e.:G6 Native, Share, Follower, Nightscout_**
+  **Your xDrip source _(f.e.:G5 Native, G6 Native, Share, Follower, Nightscout)_**
 
--  **{tXSLINE} - _AndroidAPS Statusline_**
+- **{tXSLINE} - _AndroidAPS Statusline_**
 
-   **For additional Closed Loop Information from AndroidAPS, this can be splitted in two seperate pieces just use {tXSLINE1} and {tXSLINE2} instead**
+  **For additional Closed Loop Information from AndroidAPS, this can be splitted in two seperate pieces just use {tXSLINE1} and {tXSLINE2} instead**
 
 ***
 
