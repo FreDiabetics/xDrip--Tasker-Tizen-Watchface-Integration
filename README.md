@@ -20,6 +20,7 @@
 
    **-[Additional](#additional)**
 
+   **-[Watchmaker Profile](https://getwatchmaker.com/user/Bkd6tbYxr)
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_preset.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_graphview.png)
 
@@ -103,9 +104,9 @@
 
 ###  Contact:
 
-#### [G-Mail](<typ1.diafreddy@gmail.com>)
-#### [Facebook](https://www.facebook.com/FREDERIKWAGNER311991)
-#### [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)
+#### **[G-Mail](<typ1.diafreddy@gmail.com>)**
+#### **[Facebook](https://www.facebook.com/FREDERIKWAGNER311991)**
+#### **[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)**
 
 #### **If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine 🍷. Thanks for your support**
 
@@ -144,23 +145,13 @@
 
 # Special Thanks
 
-
-An dieser Stelle möchte ich meinem Freund [Jon Fawcett](https://github.com/jonfawcett) danken, er hat mir die grundlegenden Dinge zur Verfügung gestellt. Er hat eine Anleitung geschrieben um die Nightscout-Werte eines iOS-Loops auf eine Samsung Smartwatch zu bringen. Wenn du wissen willst wie das geht dann [lies hier weiter](https://github.com/jonfawcett/Nightscout-Tasker-Tizen-Watchface-Integration)
-
-
-
-
-At this point I would like to thank my friend [Jon Fawcett](https://github.com/jonfawcett) for providing me with the basic things. He wrote a guide to display the night scout values of an iOS loop to a Samsung smartwatch. If you want to know how to get this done, read on [here](https://github.com/jonfawcett/Nightscout-Tasker-Tizen-Watchface-Integration)
+**At this point I would like to thank my friend [Jon Fawcett](https://github.com/jonfawcett) for providing me with the basic things. He wrote a guide to display the night scout values of an iOS loop to a Samsung smartwatch. If you want to know how to get this done, read on [here](https://github.com/jonfawcett/Nightscout-Tasker-Tizen-Watchface-Integration)**
 
 ***
-
-**_Anleitungen im [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) oder [hier](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/1.0-Apps-&-Settings-(DE))_**
 
 **_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/1.1-Apps-&-Settings-(EN))_**
 
 
-**-_im moment funktionieren nur diese Watchfaces: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
-  Alle anderen werden in den nächsten Wochen auf diese neue Anleitung angepasst und sind dann in neuem Design verfügbar._**
 
 **-_at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
   All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._**
@@ -171,7 +162,7 @@ At this point I would like to thank my friend [Jon Fawcett](https://github.com/j
 
 ####  Additional
 
--  **_*¹ Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
--  **_*² Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
+**-  *¹ _Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
+**-  *² _Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
 
 
