@@ -20,7 +20,7 @@
 
    **-[Additional](#additional)**
 
-   **-[Watchmaker Profile](https://getwatchmaker.com/user/Bkd6tbYxr)
+   **-[Watchmaker Profile](https://getwatchmaker.com/user/Bkd6tbYxr)**
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_preset.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_graphview.png)
 
