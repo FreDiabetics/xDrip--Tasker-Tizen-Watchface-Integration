@@ -96,31 +96,3 @@
 #### **If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine 🍷. Thanks for your support**
 
 ### Stay Healthy!! Watch Your Glucose ;)
-
-***
-### Future Projects
-##### _these watchfaces display loop information from androidaps via nightscout. this is a tasker project which is currently under development._
-
-### xDrip AndroidAPS Diabadass 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20diabdass.png)
-
-### xDrip AndroidAPS Gradient Bubbles 
-![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20gradient%20bubbles.png)
-
-##### these watchfaces display loop information from androidaps via nightscout. this is a tasker project which is currently under development.
-
-# Special Thanks
-
-**At this point I would like to thank my friend [Jon Fawcett](https://github.com/jonfawcett) for providing me with the basic things. He wrote a guide to display the night scout values of an iOS loop to a Samsung smartwatch. If you want to know how to get this done, read on [here](https://github.com/jonfawcett/Nightscout-Tasker-Tizen-Watchface-Integration)**
-
-***
-
-**_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/1.1-Apps-&-Settings-(EN))_**
-
-**-_at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
-  All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._**
-  
-####  Additional
-
-**-  *¹ _Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
-**-  *² _Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
