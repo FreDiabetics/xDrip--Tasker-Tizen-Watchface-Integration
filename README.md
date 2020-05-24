@@ -79,7 +79,7 @@
    
 - **{tXDEVICE} - _xDrip+ source_**
 
-   **Your xDrip source, _f.e.:G6 Native, Share, Follower, Nightscout _**
+   **Your xDrip source, _f.e.:G6 Native, Share, Follower, Nightscout_**
 
 -  **{tXSLINE} - _AndroidAPS Statusline_**
 
