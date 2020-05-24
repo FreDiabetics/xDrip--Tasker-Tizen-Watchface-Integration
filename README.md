@@ -1,4 +1,4 @@
-# xDrip Glucose Quarantine Watchface for [Samsung Tizen OS Smartwatches*¹](#additional) and Wear OS by Google (former Android Wear) Smartwatches**²
+# xDrip Glucose Quarantine Watchface for Samsung Tizen OS Smartwatches*¹ and Wear OS by Google (former Android Wear) Smartwatches**²
 
    **-[Basics](#basic-glucose-functionaility)**
 
@@ -22,9 +22,8 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/4%20watches.png)
 
-### Multifunctional
-#### DISPLAY DEVICE AND SENSOR AGE + CHANGE GLUCOSEUNITS WITH A SINGLE TAP
-#### (read watchface description for the depending tap actions)
+### MULTIFUNCTIONAL
+#### Show device info, sensor age, change glucoseunits by tap
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/3%20watches%20.png)
 
