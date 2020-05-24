@@ -1,9 +1,5 @@
 # xDrip Glucose Watchface - for Tizen OS(Samsung) Smartwatches*¹ and Wear OS (former Android Wear) Smartwatches**²
 
-
-
-
-
    **-[Basics](#basic-glucose-functionaility)**
 
    **-[Different Functions](#multifunctional)**
@@ -24,9 +20,6 @@
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_preset.png) ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/active_graphview.png)
 
-
-
-
 ### GLUCOSE GRAPH & ANDROIDAPS STATUSLINE FOR CLOSED LOOP INFORMATION 
 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/4%20watches.png)
@@ -41,16 +34,6 @@
 
 ![myIMG](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/ucolor_set.png)
 
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="UX3LKXVXQFPG6" />
-<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-
-       
 # Basic Glucose Functionaility
 
 -  **{tXSGV} - _latest Glucose Reading_** 
@@ -88,7 +71,7 @@
    
 - **{tXINSULIN} - _bolus-insulin_**
 
-   **nsulin you added in xDrip for bolus**
+   **Insulin you added in xDrip for bolus**
    
 - **{tXSAGE} * _sensor age_**
 
@@ -104,32 +87,15 @@
 
 ***
 
-
-
-
-
 ###  Contact:
 
 #### **[G-Mail](<typ1.diafreddy@gmail.com>)**
 #### **[Facebook](https://www.facebook.com/FREDERIKWAGNER311991)**
-#### **[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7BVRLERC9NBYA&source=url)**
+#### **[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UX3LKXVXQFPG6&source=url)**
 
 #### **If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine 🍷. Thanks for your support**
 
-
-
-
-
-
-
 ### Stay Healthy!! Watch Your Glucose ;)
-
-
-
-
-
-
-
 
 ***
 ### Future Projects
@@ -138,16 +104,10 @@
 ### xDrip AndroidAPS Diabadass 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20diabdass.png)
 
-
 ### xDrip AndroidAPS Gradient Bubbles 
 ![myimg](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/androidaps%20gradient%20bubbles.png)
 
-
 ##### these watchfaces display loop information from androidaps via nightscout. this is a tasker project which is currently under development.
-
-
-
-
 
 # Special Thanks
 
@@ -157,18 +117,10 @@
 
 **_Instructions in the [Wiki]( https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki) or [here](https://github.com/wagnefrede/xDrip--Tasker-Tizen-Watchface-Integration/wiki/1.1-Apps-&-Settings-(EN))_**
 
-
-
 **-_at the moment only these watchfaces work: [xdrip Diabadass](https://getwatchmaker.com/watch/sHyeOJm5XKL), [xDrip Sugar Guardian](https://getwatchmaker.com/watch/sHJwuuKQtL), [xDrip Scale Me](https://getwatchmaker.com/watch/sBJh9mqmYI), [xDrip  Clean One](https://getwatchmaker.com/watch/sB1htvPmtI), [xDrip Galaxy Watch](https://getwatchmaker.com/watch/sBk62m8fKL), [xDrip Sugarlicious](https://getwatchmaker.com/watch/sH1Dt3mXKU) und [xDrip Glucose Quarantine](https://getwatchmaker.com/watch/sSJp9UdotU) 
   All other watchfaces will be adapted to the new manual in the next few weeks and will then be available in a new design._**
   
-
-
-
-
 ####  Additional
 
 **-  *¹ _Supported : Tizen OS Smartwatches (Samsung): Samsung Gear Live, Samsung Gear Sport, Samsung Gear S2, Samsung Gear S3, Samsung Gear S3 Frontier, Samsung Galaxy Watch, Samsung Galaxy Watch Active 1/2. Check [this](https://getwatchmaker.com/)_**
 **-  *² _Supported [Wear OS by Google](https://wearos.google.com/#find-your-watch) (former Android Wear) Smartwatches: check [this](https://getwatchmaker.com/)_**
-
-
