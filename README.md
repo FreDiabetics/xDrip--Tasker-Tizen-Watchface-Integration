@@ -33,7 +33,7 @@
 
 # Basic Glucose Functionaility
 
--  **{tXSGV} - _latest Glucose Reading_** 
+-  **{tXSGV1} - _latest Glucose Reading_** 
 
    **This shows the last recieved Glucosevalue, 
    you can change the glucosunits from mmg/dl to mmol/L 
