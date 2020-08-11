@@ -1,7 +1,7 @@
 # xDrip Glucose Quarantine Watchface for Samsung Tizen OS Smartwatches*¹ and Wear OS by Google (former Android Wear) Smartwatches**²
 
 
-![myimg](https://github.com/FreDiabetics/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/Element%207.png)p
+![myimg](https://github.com/FreDiabetics/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/Element%207.png)
 
 
    **-[Basics](#basic-glucose-functionaility)**
