@@ -89,7 +89,7 @@
 ###  Contact:
 
 #### **[G-Mail](mailto:typ1.diafreddy@gmail.com)**
-#### **[Facebook](https://www.facebook.com/FREDERIKWAGNER311991)**
+#### **[Facebook](https://www.facebook.com/FreDiabetics)**
 #### **[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UX3LKXVXQFPG6&source=url)**
 
 #### **If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine 🍷. Thanks for your support**
