@@ -88,7 +88,7 @@
 
 ###  Contact:
 
-#### **[G-Mail](<typ1.diafreddy@gmail.com>)**
+#### **[G-Mail](typ1.diafreddy@gmail.com)**
 #### **[Facebook](https://www.facebook.com/FREDERIKWAGNER311991)**
 #### **[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UX3LKXVXQFPG6&source=url)**
 
