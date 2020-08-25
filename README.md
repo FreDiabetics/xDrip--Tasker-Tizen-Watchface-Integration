@@ -2,7 +2,7 @@
 
 ![myimg](https://github.com/FreDiabetics/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/Element%206.png)
 
-![myimg](https://github.com/FreDiabetics/xDrip--Tasker-Tizen-Watchface-Integration/blob/master/Watchfaces/content/pictures/mockup/Element%207.png)
+)
 
 
    **-[Basics](#basic-glucose-functionaility)**
