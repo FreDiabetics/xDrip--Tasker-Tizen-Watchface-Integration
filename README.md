@@ -56,9 +56,9 @@
    **The timestamp that gives you information about how much 
    time has left since the last glucosereading. 
    In Watchmaker you need to add the following as a text layer.
-   Use copy and paste
+   Use copy and paste**
 
-   _math.floor(({depoch}-{tXMINS})/60)..'m'_**
+   **_math.floor(({depoch}-{tXMINS})/60)..'m'_**
    
 -  **Glucose Graph**
 
