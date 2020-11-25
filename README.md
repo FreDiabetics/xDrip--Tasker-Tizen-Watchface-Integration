@@ -46,7 +46,7 @@
 
    **This is the last delta - change from last reading to current reading**
    
--  **{tTREND} - _Trendarrow_**
+-  **{tXTREND} - _Trendarrow_**
 
    **The Trendarrow is related to the delta value above it doesn't 
    show the predicited glucosetrend**
